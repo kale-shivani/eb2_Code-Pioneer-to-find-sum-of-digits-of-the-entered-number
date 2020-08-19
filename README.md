@@ -28,11 +28,11 @@ Type here: courses aligned
 
 Type here: universities mapped
 
-<b>Name of Developer | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+<b>Name of Developer | <b> Shivani Kale - - - - - -
 :--|:--|
-<b> Institute | <b> My Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department in which you work
+<b> Institute | <b> Kolhapur Institute of Technology (Autonomous), Kolhapur, Maharashtra
+<b> Email id|     <b> shivanikale33@gmail.com
+<b> Department | Computer Science and Engineering
 
 #### Mentor Details
 
@@ -46,7 +46,7 @@ Type here: universities mapped
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Mrs. Shivani Kale | Faculty | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur | shivanikale33@gmial.com
+1 | Mrs. Shivani Kale | Faculty | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur | shivanikale33@gmail.com
 2 | Kshitij Rajendra sangar | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur |kshitijsangar@gmail.com
 3 | Prathmesh Vivek Patil | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur | prathmeshpatil0126@gmail.com
 4 | Full name | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur |abc@example.com
