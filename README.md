@@ -46,7 +46,7 @@ Type here: universities mapped
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Full name | Faculty | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur | abc@example.com
+1 | Mrs. Shivani Kale | Faculty | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur | shivanikale33@gmial.com
 2 | Kshitij Rajendra sangar | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur |kshitijsangar@gmail.com
 3 | Full name | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur |abc@example.com
 4 | Full name | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur |abc@example.com
