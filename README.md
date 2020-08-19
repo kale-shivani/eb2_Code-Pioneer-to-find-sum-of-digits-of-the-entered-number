@@ -1,9 +1,13 @@
 ## Introduction (Round 0)
 
-<b>Discipline | <b>Type Name of Discpline  to which lab belongs
+<b>Discipline | <b>Computer Science and Engineering
 :--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. (enter the correct experiment number) Name of the experiment
+<b> Lab | <b> C programming Lab
+<b> Experiment|     <b> 1. (KCS-101/KCS-201)	Write A Program to find the sum of digits of the entered number.
+ <b> Experiment|    <b> 2. (KCS-101/KCS-201)	Write A Program to find the reverse of a number.
+
+
+
 
 <h5> About the Lab (Objective) : </h5>
 
