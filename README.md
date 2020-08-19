@@ -48,7 +48,7 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Mrs. Shivani Kale | Faculty | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur | shivanikale33@gmial.com
 2 | Kshitij Rajendra sangar | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur |kshitijsangar@gmail.com
-3 | Full name | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur |abc@example.com
+3 | Prathmesh Vivek Patil | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur | prathmeshpatil0126@gmail.com
 4 | Full name | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur |abc@example.com
 5 | Full name | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur |abc@example.com
 
