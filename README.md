@@ -9,25 +9,34 @@
 
 
 
-<h5> About the Lab (Objective) : </h5>
+<h5> Objective : </h5>
 
-Type here: berif description of the lab
+To be familiar with syntax and structure of C-programming
+To learn problem solving techniques using C
+To introduce students to the basic knowledge of programming fundamentals of C language. 
+To impart writing skill of C programming to the students and solving problems.
 
-<h5> About the Experiment : </h5>
+<h5> About the Experiment : Write A Program to find the sum of digits of the entered number </h5>
 
-Type here: berif description of this experiment
+Type here: The main idea to find sum of digits can be divided in three steps.
+
+Extract last digit of the given number.
+Add the extracted last digit to sum.
+Remove last digit from given number. As it is processed and not required any more.
+If you repeat above three steps till the number becomes 0. 
+Finally you will be left with sum of digits.
 
 <h5> Target Audience : </h5>
 
-Type here: the target audience
+Type here: Students from First year engineering of all discipline can learn C as first Programming Language
 
 <h5> Course Alignment : </h5>
 
-Type here: courses aligned
+Type here: First Year Engineering : C Programming 
 
 <h5> Universities Mapped : </h5>
 
-Type here: universities mapped
+Type here: Shivaji University, Kolhapur
 
 <b>Name of Developer | <b> Shivani Kale
 :--|:--|
