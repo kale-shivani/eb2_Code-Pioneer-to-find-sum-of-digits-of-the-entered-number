@@ -28,7 +28,7 @@ Type here: courses aligned
 
 Type here: universities mapped
 
-<b>Name of Developer | <b> Shivani Kale - - - - - -
+<b>Name of Developer | <b> Shivani Kale
 :--|:--|
 <b> Institute | <b> Kolhapur Institute of Technology (Autonomous), Kolhapur, Maharashtra
 <b> Email id|     <b> shivanikale33@gmail.com
