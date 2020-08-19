@@ -1,8 +1,5 @@
 ## Introduction (Round 0)
 
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
-<br>
-
 <b>Discipline | <b>Type Name of Discpline  to which lab belongs
 :--|:--|
 <b> Lab | <b> Type name of the lab
@@ -36,11 +33,11 @@ Type here: universities mapped
 
 #### Mentor Details
 
-<b>Mentored by | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+<b>Mentored by | <b> Sangeeta Arora
 :--|:--|
-<b> Institute | <b> Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department
+<b> Institute | <b> KIET
+<b> Email id|     <b> sangeeta.arora@kiet.edu
+<b> Department | Computer Application
 
 #### Contributors List
 
