@@ -47,7 +47,7 @@ Type here: Shivaji University, Kolhapur
 :--|:--|
 <b> Institute | <b> KIET
 <b> Email id|     <b> sangeeta.arora@kiet.edu
-<b> Department | Computer Application
+<b> Department | Computer Applications
 
 #### Contributors List
 
