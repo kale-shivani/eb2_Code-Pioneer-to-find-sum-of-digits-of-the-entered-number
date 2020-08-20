@@ -58,7 +58,4 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 3 | Prathmesh Vivek Patil | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur | prathmeshpatil0126@gmail.com
 4 | Shailesh Shivaji Mohite | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur |shailesh.mohite7543@gmail.com
 5 | Sunil Sadashiv Bilur | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur | sunilbilur@gmail.com
-
-
-<br>
-for more details on Rounds visit : <b> [HERE](http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/List-of-Rounds/blob/master/README.md) </b>
+<br><br>
