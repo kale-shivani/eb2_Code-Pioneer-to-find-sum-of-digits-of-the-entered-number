@@ -26,6 +26,13 @@ Remove last digit from given number. As it is processed and not required any mor
 If you repeat above three steps till the number becomes 0. 
 Finally you will be left with sum of digits.
 
+<h5> About the Experiment : Write A Program to find the reverse of a number </h5>
+
+
+
+
+
+
 <h5> Target Audience : </h5>
 
 Type here: Students from First year engineering of all discipline can learn C as first Programming Language
