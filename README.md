@@ -14,7 +14,7 @@ To impart writing skill of C programming to the students and solving problems.
 
 <h5> About the Experiment : Write A Program to find the sum of digits of the entered number </h5>
 
-Type here: The main idea to find sum of digits can be divided in three steps.
+The main idea to find sum of digits can be divided in three steps.
 
 Step 1 : Extract last digit of the given number. <br>
 Step 2 : Add the extracted last digit to sum. <br>
@@ -25,15 +25,15 @@ Step 5 : Finally you will be left with sum of digits.<br>
 
 <h5> Target Audience : </h5>
 
-Type here: Students from First year engineering of all discipline can learn C as first Programming Language
+Students from First year engineering of all discipline can learn C as first Programming Language
 
 <h5> Course Alignment : </h5>
 
-Type here: First Year Engineering : C Programming 
+First Year Engineering : C Programming 
 
 <h5> Universities Mapped : </h5>
 
-Type here: Shivaji University, Kolhapur
+Shivaji University, Kolhapur
 
 <b>Name of Developer | <b> Shivani Kale
 :--|:--|
