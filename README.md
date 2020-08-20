@@ -16,11 +16,11 @@ To impart writing skill of C programming to the students and solving problems.
 
 Type here: The main idea to find sum of digits can be divided in three steps.
 
-Extract last digit of the given number.
-Add the extracted last digit to sum.
-Remove last digit from given number. As it is processed and not required any more.
-If you repeat above three steps till the number becomes 0. 
-Finally you will be left with sum of digits.
+Step 1 : Extract last digit of the given number. <br>
+Step 2 : Add the extracted last digit to sum. <br>
+Step 3 : Remove last digit from given number. As it is processed and not required any more.<br>
+Step 4 : If you repeat above three steps till the number becomes 0. <br>
+Step 5 : Finally you will be left with sum of digits.<br>
 
 
 <h5> Target Audience : </h5>
