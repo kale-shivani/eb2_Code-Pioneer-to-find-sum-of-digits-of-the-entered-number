@@ -4,11 +4,7 @@
 :--|:--|
 <b> Lab | <b> C programming Lab
 <b> Experiment|     <b> 1. (KCS-101/KCS-201)	Write A Program to find the sum of digits of the entered number.
- <b> Experiment|    <b> 2. (KCS-101/KCS-201)	Write A Program to find the reverse of a number.
-
-
-
-
+ 
 <h5> Objective : </h5>
 
 To be familiar with syntax and structure of C-programming
@@ -25,12 +21,6 @@ Add the extracted last digit to sum.
 Remove last digit from given number. As it is processed and not required any more.
 If you repeat above three steps till the number becomes 0. 
 Finally you will be left with sum of digits.
-
-<h5> About the Experiment : Write A Program to find the reverse of a number </h5>
-
-
-
-
 
 
 <h5> Target Audience : </h5>
