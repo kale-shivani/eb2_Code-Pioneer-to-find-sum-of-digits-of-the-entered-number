@@ -54,7 +54,7 @@ Type here: Shivaji University, Kolhapur
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Mrs. Shivani Kale | Faculty | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur | shivanikale33@gmail.com
-2 | Kshitij Rajendra sangar | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur |kshitijsangar@gmail.com
+2 | Kshitij Rajendra Sangar | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur |kshitijsangar@gmail.com
 3 | Prathmesh Vivek Patil | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur | prathmeshpatil0126@gmail.com
 4 | Shailesh Shivaji Mohite | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur |shailesh.mohite7543@gmail.com
 5 | Sunil Sadashiv Bilur | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur | sunilbilur@gmail.com
