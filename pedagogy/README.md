@@ -29,12 +29,10 @@ The students know the concept of application of modulo operater and loops. They 
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Recall the basic terminology used in computer programming. <br> Next line here. | Recall | [Identify]
-2.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-3.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-4.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-
-
+1.| User will be able to: <br>Recall the basic terminology used in computer programming. <br> Next line here. | Recall | Identify
+2.| User will be able to: <br> Define and relate basic terminology for logic <br> Next line here. | Recall | Define
+3.| User will be able to: <br> Describe how program will be excute <br> Next line here. | Understand | Describe
+4.| User will be able to: <br> able to calculate sum of digit <br> Next line here. | Apply | Calculate
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
