@@ -7,7 +7,7 @@
 <b>Discipline | <b>Computer Science and Engineering
 :--|:--|
 <b> Lab | <b> Programming for Problem Solving Lab 
-<b> Experiment|     <b> 1. Write a Program to find sum of digit of a entered number
+<b> Experiment|     <b> 1. Write a Program to find sum of digits of a entered number
 
 
 <h4> [1. Focus Area](#LO)
@@ -26,10 +26,10 @@ The students know the concept of application of modulo operater and loops. They 
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to recall the basic terminology used in computer programming. <br>| Recall | Identify
-2.| User will be able to define and relate basic terminology to implement logic <br> | Recall | Define
-3.| User will be able to describe how program will be excute <br> | Understand | Describe
-4.| User will be able to calculate sum of digit <br>| Apply | Calculate
+1.| User will be able to recall the basic terminology used in C programming. <br>| Recall | Identify
+2.| User will be able to define and relate basic terminology to implement logic of the program <br> | Recall | Define
+3.| User will be able to get the flow how program will be excuted <br> | Understand | Describe
+4.| User will be able to calculate sum of digits of number <br>| Apply | Calculate
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
@@ -45,7 +45,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <u> <b>Description: </b></u>
 <br>
-Students will declare number of variables required for program.input and output statemetns are defined. They will convert logic of program into programming construct.Input value will be put in the formula which inturn runs in loop. Finally program will give the sum of digits of number entered.
+Students will declare number of variables required for program.input and output statemetns are defined. They will convert logic of program into programming construct.Input value will be put in the formula which inturn runs in loop. Finally program will give the sum of digits of number entered when condition is met.
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
