@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/index.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@700&family=Noto+Serif&display=swap" rel="stylesheet">
+    <script src="js/index.js"></script>
+    <title>Document</title>
+
+
+</head>
+<body style="background-color:#ffffff">
+
+    <!-- myjavascript - copy this -->
+    <center>
+     <div class="header1"  style=" background-color:#303030;width:100%;padding-bottom:20px ;color:#FFD700;font-size:43px;font-weight: bold;font-family: 'Merriweather Sans', sans-serif;"><b>Sum of Digits</b></div>
+     </center>
+     <br> <br> <br><br>
+    <div class="inputdata inputContainer">
+        <div></div>
+        <div class="heading-section">
+            Input Section
+        </div>
+        <br> <br>
+        <div></div>
+        <input class="loc1" id="inputno" type="text" placeholder="Enter a number" style="margin-left:30%; width:40%;font-size:18px; border-radius: 100px;">
+        <br>
+        <div></div>
+        <button onclick="getno()" class="submitbtn loc" id="submitbtn" style="margin-left:40%; width:20%;font-size:18px; border-radius: 100px;color:#FFD700; background-color: #303030"><b>Submit</b></button>
+        <br>
+        <div></div>
+        <button style="margin-left:40%; width:20%;font-size:18px; border-radius: 100px;;background-color:#303030"><a href="index.html" style="color:#FFD700"><b>Reset</b></a></button>
+        
+        <div></div>
+        <br><br>
+        <button onclick="executeCode()" class="nextbtn loc" id="nextbtn" style="margin-left:40%; width:20%;font-size:18px; border-radius: 100px;color:#FFD700;background-color:#303030"><b>Next</b></button>
+        <div></div>
+    </div>
+    <div class = "mainContainer">
+        <div class = "codeExecution">
+            <div class="heading-section">
+                <div   style="margin-left:35%; background-color:#fffff;width:40%; border-radius: 100px;color:#000000;"><b>Code Block</b><br></div>
+            </div>
+            <div class="codeText">
+                <div id="codeTextLines">
+                    <div class=" loc" id="line1">
+                        #include &ltstdio.h&gt
+                    </div>
+                    <div class=" loc" id="line2">
+                        int main()
+                    </div>
+                    <div class=" loc" id="line3">{</div>
+                    <div class=" loc" id="line4" style="padding-left: 7%;">
+                        int num, sum=0, remainder;
+                    </div>
+                    
+                    <div class=" loc" id="line5" style="padding-left: 7%;">
+                        while(num>0)
+                    </div>
+                    <div class=" loc" id="line6" style="padding-left: 7%;">
+                        {
+                    </div>
+                    <div class=" loc" id="line7" style="padding-left: 14%;">
+                        remainder = num%10;
+                    </div>
+                    <div class=" loc" id="line8" style="padding-left: 14%;">
+                        sum = sum + remainder;
+                    </div>
+                    <div class=" loc" id="line9" style="padding-left: 14%;">
+                        num = num/10;
+                    </div>
+                    <div class="loc" id="line10" style="padding-left: 7%;">
+                        }
+                    </div>
+                    <div class="loc" id="line11" style="padding-left: 7%;">
+                        printf("Sum of digits in number : %d", sum);
+                    </div>
+                    <div class="loc" id="line12" >
+                    }
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="graphicDisplay">
+            <div class="heading-section">
+                Output Functioning
+            </div>
+            <div class="output-section" id="output-section">
+                <!-- <h1 id="demo-output"></h1> -->
+                <div class="outputrow">
+                    <div class="numblock" id="numblock">
+                        0
+                    </div>
+                </div>
+                <div class="outputrow">
+                    <div class="numblock" id="numblockname" style="font-size:25px;line-height: 0px; margin-bottom: 20px;">
+                        Number
+                    </div>
+                </div>
+
+                <div class="outputrow" id="remSum">
+                    <div id="remainderblock">
+                        0
+                    </div>
+                    <div id="sumblock">
+                        0
+                    </div>
+                </div>
+
+                <div class="outputrow" id="remSum" style="font-size:25px;line-height: 0px; margin-bottom: 20px;">
+                    <div id="remainderblockName">
+                        Remainder
+                    </div>
+                    <div id="sumblockName">
+                        Sum
+                    </div>
+                </div>
+                
+            </div>            
+        </div>
+    </div>
+</body>
+</html>
