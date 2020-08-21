@@ -43,7 +43,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 ###### Assessment Method: Formative Assessment
 
 
-<u> <b>Description: </b> of how you are going to implement the above Instructional Strategy in your Simulator: </u>
+<u> <b>Description: </b></u>
 <br>
 Students will declare number of variables required for program.input and output statemetns are defined. They will convert logic of program into programming construct.Input value will be put in the formula which inturn runs in loop. Finally program will give the sum of digits of number entered.
 <br/>
@@ -66,15 +66,6 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 3.|<br> Describe how program will be excute| <br> On the simulator screen, student will show changes in values "while" loop is executing.|<br>
 4.|<br> calculate sum of digit to get final result| <br>On the simulator screen, final sum will be displyed| <br>
 
-
-You can add more question. All questions may not be as MCQ
-Please add the correct answer as well.
-or type the correct answer below the question.
-
- <br>
-
- <u> You can add additional TASKS & Assessment Questions <u>
-<br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
