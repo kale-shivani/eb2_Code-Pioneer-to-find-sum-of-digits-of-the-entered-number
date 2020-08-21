@@ -21,8 +21,8 @@ First Year Engineering : C Programming
 
 <h5> Universities Mapped : </h5>
 
-AKTU, Luknow,
-Shivaji University, Kolhapur
+1. AKTU, Luknow,
+2. Shivaji University, Kolhapur
 
 <b>Name of Developer | <b> Shivani Kale
 :--|:--|
