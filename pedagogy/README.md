@@ -26,10 +26,10 @@ The students know the concept of application of modulo operater and loops. They 
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to <br>Recall the basic terminology used in computer programming. <br>| Recall | Identify
-2.| User will be able to <br> Define and relate basic terminology to implement logic <br> | Recall | Define
-3.| User will be able to <br> Describe how program will be excute <br> | Understand | Describe
-4.| User will be able to <br> calculate sum of digit <br>| Apply | Calculate
+1.| User will be able to recall the basic terminology used in computer programming. <br>| Recall | Identify
+2.| User will be able to define and relate basic terminology to implement logic <br> | Recall | Define
+3.| User will be able to describe how program will be excute <br> | Understand | Describe
+4.| User will be able to calculate sum of digit <br>| Apply | Calculate
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
