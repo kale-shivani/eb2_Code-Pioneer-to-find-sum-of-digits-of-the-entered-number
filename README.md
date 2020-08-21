@@ -5,8 +5,8 @@
 <b> Lab | <b> Programming for problem Solving Lab
 <b> Experiment|     <b> 1.Write A Program to find sum of digit of a number.
  
-<h5> Objective : </h5>
-        The major objective is to provide students with understanding of syntax and structure of C-programming.Introduce students to the basic knowledge of programming fundamentals of C language. To be familiar with problem solving techniques using C and To impart writing skill of C programming to the students and solving problems.
+<h5> About the Lab : </h5>
+        In this lab students will understand syntax and structure of C-programming. The Lab will introduce students  the basic knowledge of programming fundamentals of C language. In it student will be familiar with problem solving techniques using C language. The lab will focus on imparting writing skill of C programming and problem solving strategy to students.
 
 <h5> About the Experiment :  </h5>
 The Program takes an input an integer from the user,It uses while loop'within the while loop uses modulo, division and addition to find sum of digit of a number
@@ -21,8 +21,8 @@ First Year Engineering : C Programming
 
 <h5> Universities Mapped : </h5>
 
-1. AKTU, Luknow,
-2. Shivaji University, Kolhapur
+1. Dr. A.P.J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh
+
 
 <b>Name of Developer | <b> Shivani Kale
 :--|:--|
@@ -42,8 +42,7 @@ First Year Engineering : C Programming
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Mrs. Shivani Kale | Faculty | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur | shivanikale33@gmail.com
-2 | Kshitij Rajendra Sangar | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur |kshitijsangar@gmail.com
-3 | Prathmesh Vivek Patil | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur | prathmeshpatil0126@gmail.com
-4 | Shailesh Shivaji Mohite | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur |shailesh.mohite7543@gmail.com
-5 | Sunil Sadashiv Bilur | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur | sunilbilur@gmail.com
+1 | Kshitij Rajendra Sangar | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur |kshitijsangar@gmail.com
+2 | Prathmesh Vivek Patil | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur | prathmeshpatil0126@gmail.com
+3 | Shailesh Shivaji Mohite | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur |shailesh.mohite7543@gmail.com
+4 | Sunil Sadashiv Bilur | Student | Computer Science and Engineering | Kolhapur Institute of Technology (Autonomous), Kolhapur | sunilbilur@gmail.com
