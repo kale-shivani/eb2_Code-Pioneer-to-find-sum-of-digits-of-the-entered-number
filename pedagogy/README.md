@@ -10,7 +10,7 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <b>Discipline | <b>Computer Science and Engineering
 :--|:--|
 <b> Lab | <b> Programming for Problem Solving Lab 
-<b> Experiment|     <b> 1. Write a Program to find sum of a number
+<b> Experiment|     <b> 1. Write a Program to find sum of digit of a entered number
 
 
 <h4> [1. Focus Area](#LO)
@@ -29,10 +29,10 @@ The students know the concept of application of modulo operater and loops. They 
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Recall the basic terminology used in computer programming. <br> Next line here. | Recall | Identify
-2.| User will be able to: <br> Define and relate basic terminology for logic <br> Next line here. | Recall | Define
-3.| User will be able to: <br> Describe how program will be excute <br> Next line here. | Understand | Describe
-4.| User will be able to: <br> able to calculate sum of digit <br> Next line here. | Apply | Calculate
+1.| User will be able to: <br>Recall the basic terminology used in computer programming. <br>| Recall | Identify
+2.| User will be able to: <br> Define and relate basic terminology to implement logic <br> | Recall | Define
+3.| User will be able to: <br> Describe how program will be excute <br> | Understand | Describe
+4.| User will be able to: <br> calculate sum of digit <br>| Apply | Calculate
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
@@ -42,13 +42,13 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <a name="IS"></a>
 #### 3. Instructional Strategy
-###### Name of Instructional Strategy  :    <u> As per Handout
-###### Assessment Method: As per handout
+###### Name of Instructional Strategy  : Expository    <u> 
+###### Assessment Method: Formative Assessment
+
 
 <u> <b>Description: </b> of how you are going to implement the above Instructional Strategy in your Simulator: </u>
 <br>
- Brief description as per handout
-
+Students will declare number of variables required for program.input and output statemetns are defined. They will convert logic of program into programming construct.Input value will be put in the formula which inturn runs in loop. Finally program will give the sum of digits of number entered.
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
@@ -64,8 +64,12 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | Type the question that will assess what student has learnt
-2.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | 1 Question in detail <br> A. Option <br> B. Option <br> C. Option <br> <b> D. Option </b> <br> (mark correct option as bold text)
+1.| LO's as described in section 1 <br> Recall the basic terminology used in computer programming| Type the task that <br> student will perform | On the simulator screen, student ask for input from user,Sum value is displayed initially 0 in the box.
+2.| LO's as described in section 1 <br> Define and relate basic terminology to implement logic| Type the task that <br> student will perform | On the simulator screen, 
+   remainder will be shown after dividing the rightmost digit of a input number by 10, adding that number to sum so updating value of sum after every iteration
+3.| LO's as described in section 1 <br> Describe how program will be excute| Type the task that <br> student will perform | On the simulator screen, student will show changes in values while loop is executing
+4.| LO's as described in section 1 <br> calculate sum of digit to get final result| Type the task that <br> student will perform | On the simulator screen, final sum will be displyed
+2.| LO's as described in section 1 <br> Define and relate basic terminology to implement logic | Type the task that <br> student will perform | 1 Question in detail <br> A. Option <br> B. Option <br> C. Option <br> <b> D. Option </b> <br> (mark correct option as bold text)
 
 
 You can add more question. All questions may not be as MCQ
