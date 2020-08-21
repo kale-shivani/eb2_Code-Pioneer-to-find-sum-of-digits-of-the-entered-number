@@ -4,13 +4,13 @@
 Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
 <br>
-<b> Experiment ABCDEF Lab  <a name="top"></a> <br>
+<b> Programming for Problem Solving Lab  <a name="top"></a> <br>
 </p>
 
-<b>Discipline | <b>Type Name of Discipline  to which lab belongs
+<b>Discipline | <b>Computer Science and Engineering
 :--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. Name of the experiment
+<b> Lab | <b> Programming for Problem Solving Lab 
+<b> Experiment|     <b> 1. Write a Program to find sum of a number
 
 
 <h4> [1. Focus Area](#LO)
@@ -21,7 +21,8 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Name of the Focus area as per handout
+#### 1. Focus Area : Experimentation and Data Analysis
+The students know the concept of application of modulo operater and loops. They do the experimentation based on the logic they can apply to the input, trial and error and learn from it, finally analyzing results with standard value.
 
 #### 2. Learning Objectives and Cognitive Level
 
