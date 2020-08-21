@@ -18,7 +18,7 @@
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Experimentation and Data Analysis
+#### 1. Focus Area : Reinforce theroretical concept
 The students know the concept of application of modulo operater and loops. They do the experimentation based on the logic they can apply to the input, trial and error and learn from it, finally analyzing results with standard value.
 
 #### 2. Learning Objectives and Cognitive Level
@@ -26,9 +26,9 @@ The students know the concept of application of modulo operater and loops. They 
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Recall the basic terminology used in C programming. <br>| Recall | Identify
-2.| User will be able to: <br>Befine and relate basic terminology to implement logic of the program <br> | Recall | Define
-3.| User will be able to: <br>Get the flow how program will be excuted <br> | Understand | Describe
+1.| User will be able to: <br>Recall the basic terminology used in C programming. <br>| Remember | Identify
+2.| User will be able to: <br>Define and relate basic terminology to implement logic of the program <br> | Recall | Define
+3.| User will be able to: <br> Describe the flow  of how program will be excuted <br> | Understand | Describe
 4.| User will be able to: <br>Calculate sum of digits of the number <br>| Apply | Calculate
 <br/>
 <div align="right">
