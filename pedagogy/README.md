@@ -94,4 +94,4 @@ Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 1.| Student will click on Simulation tab <br> | Simulator opens the experiment screen <br> | To open screen to perform experiment.
 2.| User is asked to give input <br> | Simulator accepts input <br> | Input Displayed to user.
 3.| student will press run button <br> | Simulator displayes values of Sum, Remainder and number <br> | Display of values.
-4.| student will press next button <br> | simulator displays changing value for every next instruction click <br> next line  '| to get final result.
+4.| student will press next button <br> | simulator displays changing value for every next instruction click <br> | to get final result.
