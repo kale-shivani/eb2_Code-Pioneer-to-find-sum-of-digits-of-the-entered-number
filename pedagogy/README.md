@@ -64,12 +64,10 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.|1 <br> Recall the basic terminology used in computer programming | <br> On the simulator screen, student ask for input from user,Sum value is displayed initially 0 in the box.| <br> What is type of input value is need to be enterd?|<br>  A. #### Integer <br> B. Float <br> C. Char <br> <b> D. string </b> <br> 
-
-2.| LO's as described in section 1 <br> Define and relate basic terminology to implement logic| Type the task that <br> student will perform | On the simulator screen, 
-   remainder will be shown after dividing the rightmost digit of a input number by 10, adding that number to sum so updating value of sum after every iteration
-3.| LO's as described in section 1 <br> Describe how program will be excute| Type the task that <br> student will perform | On the simulator screen, student will show changes in values while loop is executing
-4.| LO's as described in section 1 <br> calculate sum of digit to get final result| Type the task that <br> student will perform | On the simulator screen, final sum will be displyed
+1.|<br> Recall the basic terminology used in computer programming | <br> On the simulator screen, student ask for input from user,Sum value is displayed initially 0 in the box.| <br> | What is type of input value is need to be enterd?| <br> A. #### Integer <br> B. Float <br> C. Char <br> <b> D. string </b> <br> 
+2.|<br> Define and relate basic terminology to implement logic| <br> On the simulator screen, remainder will be shown after dividing the rightmost digit of a input number by 10, adding that number to sum so updating value of sum after every iteration.|<br>|
+3.|<br> Describe how program will be excute| <br> On the simulator screen, student will show changes in values "while" loop is executing.|<br>
+4.|<br> calculate sum of digit to get final result| <br>On the simulator screen, final sum will be displyed| <br>
 
 
 You can add more question. All questions may not be as MCQ
@@ -93,7 +91,7 @@ or type the correct answer below the question.
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-2.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-3.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-4.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
+1.| Student will click on Simulation tab <br> | Simulator opens the experiment screen <br> | To open screen to perform experiment.
+2.| User is asked to give input <br> | Simulator accepts input <br> | Input Displayed to user.
+3.| student will press run button <br> | Simulator displayes values of Sum, Remainder and number <br> | Display of values.
+4.| student will press next button <br> | simulator displays changing value for every next instruction click <br> next line  '| to get final result.
