@@ -64,12 +64,12 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| LO's as described in section 1 <br> Recall the basic terminology used in computer programming| Type the task that <br> student will perform | On the simulator screen, student ask for input from user,Sum value is displayed initially 0 in the box.
+1.| LO's as described in section 1 <br> Recall the basic terminology used in computer programming| <br> | On the simulator screen, student ask for input from user,Sum value is displayed initially 0 in the box.| LO's as described in section 1 <br> What is type of input value is need to be enterd | Type the task that <br> student will perform | 1 Question in detail <br> A. #### Integer <br> B. Float <br> C. Char <br> <b> D. string </b> <br> (mark correct option as bold text)
+
 2.| LO's as described in section 1 <br> Define and relate basic terminology to implement logic| Type the task that <br> student will perform | On the simulator screen, 
    remainder will be shown after dividing the rightmost digit of a input number by 10, adding that number to sum so updating value of sum after every iteration
 3.| LO's as described in section 1 <br> Describe how program will be excute| Type the task that <br> student will perform | On the simulator screen, student will show changes in values while loop is executing
 4.| LO's as described in section 1 <br> calculate sum of digit to get final result| Type the task that <br> student will perform | On the simulator screen, final sum will be displyed
-2.| LO's as described in section 1 <br> Define and relate basic terminology to implement logic | Type the task that <br> student will perform | 1 Question in detail <br> A. Option <br> B. Option <br> C. Option <br> <b> D. Option </b> <br> (mark correct option as bold text)
 
 
 You can add more question. All questions may not be as MCQ
