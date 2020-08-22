@@ -41,25 +41,30 @@ C.<b>3</b><br>
 D.4<br>
 Formative assesment questions as mentioned in Round 1<br>
 Difficulty level: RECALL<br>
-Q  #include <stdio.h><br>
+Q<br/>
+#include <stdio.h><br>
  
-int main()<br>
-{<br>
-    int i = 1024;<br>
-    for (; i; i >>= 1)<br>
-        printf("GeeksQuiz");<br>
-    return 0;<br>
-}<br>
+ <pre>
+ int main()
+{
+    int i = 1024;
+    for (; i; i >>= 1)
+        printf("GeeksQuiz");
+    return 0;
+}
+</pre>
+
 How many times will GeeksQuiz be printed in the above program?<br>
 A 10<br>
-# B 11
+B 11
 C Infinite<br>
 D The program will show compile-time error
 
 
 Formative assesment questions as mentioned in Round 1
 Difficulty level: DEFINE
-Q. #include <stdio.h>
+
+include <stdio.h>
 int i;
 int main()
 {
