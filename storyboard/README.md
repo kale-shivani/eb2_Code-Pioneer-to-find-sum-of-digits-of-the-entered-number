@@ -146,11 +146,7 @@ There are 4 programming questions with different difficulty levels. Assessment/e
 
 
 ### 3. Flowchart 4
-<img src="flowchart/sum-of-digits-number-programming9.jpg"/><br>
-link to flow chart Here : Store in the  /flowchart folder within Round2 folder in your repo
-<br>
-(guide :The lab proposer should extract logic from the story, prepare a flowchart from the story narration and write the algorithm to execute the black box.  use Google Drawings https://docs.google.com/drawings/ (send the link to your flowchart and also attach .png by exporting it )
-
+<img src="flowchart/sum of digits.jpg"/><br><br>
 ### 4. Mindmap:
 <img src="mindmap/mindmap.png"/>
  Link to mindmap here : Store the mindmap in both .mm & .png extension in the  /mindmap folder and include link of only .pdf verison here
