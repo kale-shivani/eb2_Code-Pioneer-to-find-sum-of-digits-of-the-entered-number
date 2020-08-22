@@ -22,7 +22,7 @@ When the student visits the link of the simulator page, he sees canvas of screen
 1. The prime objective of the experiment is to find sum of digits of a number entered by user
 2. To identify Logic required for finding the output
 3. To Describe Logic in terms of c Programming construct
-4. To calcu;ate the sum expected
+4. To be able to apply formulas required to get output
 
 #### 2.3 Set the Pathway Activities:
 1. Click on the button “Start the simulator”. It takes to simulation screen.
@@ -37,10 +37,10 @@ When the student visits the link of the simulator page, he sees canvas of screen
 Formative assesment questions as mentioned in Round 1
 Difficulty level: REMEMBER
 Q How many types of loop are avilable in C Program?
-A. 1
-B. 2
-### C.3
-D. 4
+A.1
+B.2
+C.3
+D.4
 Formative assesment questions as mentioned in Round 1
 Difficulty level: RECALL
 Q  #include <stdio.h>
@@ -57,6 +57,7 @@ A 10
 ### B 11
 C Infinite
 D The program will show compile-time error
+
 
 Formative assesment questions as mentioned in Round 1
 Difficulty level: DEFINE
@@ -75,6 +76,7 @@ A if block is executed.
 C It is unpredictable as i is not initialized.
 D Error: misplaced else
 
+
 Formative assesment questions as mentioned in Round 1
 Difficulty level: APPLY
 
@@ -92,14 +94,40 @@ C. 23
 D. 34
 
 ##### 2.5 Allow pitfalls:
-Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))
+This pitfall does not mean wrong answer and retrying. It is designed to clear misconceptions or incorrect knowledge.Pitfalls are used to check the attention of program by the student.
+Choose a correct C do while syntax.
+A) 
+dowhile(condition)
+{
+    //statements
+}
+B) 
+do while(condition)
+{
+    //statements
+}
+C) 
+do
+{
+    //statements
+
+}while(condition)
+D) 
+do
+{
+    //statements
+
+}while(condition);
 
 ##### 2.6 Conclusion:
-Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
+Time taken by the student to attempt the questions: ----
+The student correctly answered: -----/4
+At the completion of this experiment, following are the interpretations/ conclusions,
+A.  B.  C.
+There are 4 programming questions with different difficulty levels. Assessment/evaluation of the multiple choice questions will be given immediately to the student. When the student clicks on the answer of his choice, the correct answer will be displayed below the question. This would enable the student to understand whether he is right or wrong. The approximate time required to understand the procedure to perform the experiment would take about 5 min. To generate data will take another 10 minutes. Calculating and entering the values in the observation table will take approximately 10 minutes. Answering the assessment questions will take about 5 min. Thus the total time required to perform the experiment will require around 10 minutes.
 
 ##### 2.7 Equations/formulas: NA
-Type equations here : (guide : ( a separate sheet having equations / programs for the lab exper3ment to be shared along with the Story submissions (1) . You can mark it as numerical reference numbers within the story narration (like we cite in the research papers) and then separately share these equations/programs sheets as a reference, do not include the equations as a whole in the narration))
-Tool can be used to integrate formula in Markdown <b> [here](http://latex.codecogs.com/eqneditor/samples/example3.php) </b>
+
 
 
 ### 3. Flowchart 4
