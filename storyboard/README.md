@@ -33,27 +33,27 @@ When the student visits the link of the simulator page, he sees canvas of screen
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
 Formative assesment questions as mentioned in Round 1
-Difficulty level: REMEMBER
-Q How many types of loop are avilable in C Program?
-A.1
-B.2
-C.3
-D.4
-Formative assesment questions as mentioned in Round 1
-Difficulty level: RECALL
-Q  #include <stdio.h>
+Difficulty level: REMEMBER <br>
+Q How many types of loop are avilable in C Program?<br>
+A.1<br>
+B.2<br>
+C.<b>3</b><br>
+D.4<br>
+Formative assesment questions as mentioned in Round 1<br>
+Difficulty level: RECALL<br>
+Q  #include <stdio.h><br>
  
-int main()
-{
-    int i = 1024;
-    for (; i; i >>= 1)
-        printf("GeeksQuiz");
-    return 0;
-}
-How many times will GeeksQuiz be printed in the above program?
-A 10
-### B 11
-C Infinite
+int main()<br>
+{<br>
+    int i = 1024;<br>
+    for (; i; i >>= 1)<br>
+        printf("GeeksQuiz");<br>
+    return 0;<br>
+}<br>
+How many times will GeeksQuiz be printed in the above program?<br>
+A 10<br>
+# B 11
+C Infinite<br>
 D The program will show compile-time error
 
 
@@ -70,7 +70,7 @@ int main()
 }
 What is correct about the above program?
 A if block is executed.
-### B else block is executed.
+# B else block is executed.
 C It is unpredictable as i is not initialized.
 D Error: misplaced else
 
