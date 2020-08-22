@@ -16,15 +16,18 @@ based on loops. Loops are used when a block of code needs to be executed several
 
 
 #### 2.1 Set the Visual Stage Description:
-When the student visits the link of the simulator page, he sees canvas of screen size (lightorange shade). On this canvas input box to take input from user and blocks for code execution and Output Functioning are seen. On top-centre of the screen he observes the title ‘Sum of Digits’. Just below the title user observes an input box under the title Input section. Below input box there are three buttons "Submit", "Reset" and "Next".After entering number in input box ,user wil click on submit button ,code will appear on code execution block on left side and three boxes to display values of variable "sum","Remainder" and Number will be displayed on Output Functioning block.After pressing Next button program will excute step by step and changes in the values will be shown into respective boxes.
+When the student visits the link of the simulator page, he sees canvas of screen size (light orange shade). On this canvas input box to take input from user and blocks for code execution and Output Functioning are seen. On top-centre of the screen he observes the title ‘Sum of Digits’. Just below the title user observes an input box under the title Input section. Below input box there are three buttons "Submit", "Reset" and "Next".After entering number in input box ,user wil click on submit button ,code will appear on code execution block on left side and three boxes to display values of variable "sum","Remainder" and Number will be displayed on Output Functioning block.After pressing Next button program will excute step by step and changes in the values will be shown into respective boxes.
 
 #### 2.2 Set User Objectives & Goals:
 1. The prime objective of the experiment is to find sum of digits of a number entered by user
-2.
+2. To identify Logic required for finding the output
+3. To Describe Logic in terms of c Programming construct
+4. To calcu;ate the sum expected
 
 #### 2.3 Set the Pathway Activities:
+1. Click on the button “Start the simulator”. It takes to simulation screen
+2.
 
-Describe the pathway activites here : (Guide : Set the pathway activities in line with the learning objectives (LOs)  & with a view to achieve the goals set in round #0 & round#1.  (once he begins, how he will traverse through the entire experiment ? in descriptive))
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
