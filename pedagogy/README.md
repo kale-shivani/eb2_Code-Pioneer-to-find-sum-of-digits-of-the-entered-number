@@ -26,10 +26,8 @@ The students know the concept of application of modulo operater and loops. They 
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Recall the basic terminology used in C programming. <br>| Remember | Identify
-2.| User will be able to: <br>Define and relate basic terminology to implement logic of the program <br> | Recall | Define
-3.| User will be able to: <br> Describe the flow  of how program will be excuted <br> | Understand | Describe
-4.| User will be able to: <br>Calculate sum of digits of the number <br>| Apply | Calculate
+1.| User will be able to: <br>Describe flow  of program execution <br> | Understand | Describe
+2.| User will be able to: <br>Apply concept of loop  <br>| Apply | Sketch
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
@@ -61,10 +59,8 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.|<br> Recall the basic terminology used in computer programming | <br> On the simulator screen, student ask for input from user,Sum value is displayed initially 0 in the box.| <br> | What is type of input value is need to be enterd?| <br> A. #### Integer <br> B. Float <br> C. Char <br> <b> D. string </b> <br> 
-2.|<br> Define and relate basic terminology to implement logic| <br> On the simulator screen, remainder will be shown after dividing the rightmost digit of a input number by 10, adding that number to sum so updating value of sum after every iteration.|<br>|
-3.|<br> Describe how program will be excute| <br> On the simulator screen, student will show changes in values "while" loop is executing.|<br>
-4.|<br> calculate sum of digit to get final result| <br>On the simulator screen, final sum will be displyed| <br>
+1.|<br> Describe flow  of program execution| <br> On the simulator , comments will be shown to students to understand the flow  |<br>
+2.|<br> Apply concept of loop| <br>On the simulator screen, step by step excution of program will be shown| <br>
 
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
