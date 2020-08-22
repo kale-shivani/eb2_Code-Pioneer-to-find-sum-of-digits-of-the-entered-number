@@ -51,7 +51,7 @@ Difficulty level: RECALL<br>
 </pre>
 Q How many times will GeeksQuiz be printed in the above program?<br>
 A 10<br>
-B 11<br>
+**B.11**<br>
 C Infinite<br>
 D The program will show compile-time error<br><br>
 
@@ -70,7 +70,7 @@ int main()
 }
 </pre>
 
-What is correct about the above program?<br>
+Q What is correct about the above program?<br>
 A if block is executed.<br>
 **B else block is executed.**<br>
 C It is unpredictable as i is not initialized.<br>
@@ -124,6 +124,7 @@ do
 </pre>
 
 D) <br>
+<b>
 <pre>
 do
 {
@@ -131,6 +132,7 @@ do
 
 }while(condition);
 </pre>
+</b>
 <br>
 
 ##### 2.6 Conclusion:
