@@ -1,1 +1,1 @@
-### Lab Name
+### Lab Name Programming for problem solving lab
