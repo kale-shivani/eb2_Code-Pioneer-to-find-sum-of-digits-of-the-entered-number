@@ -15,28 +15,25 @@
 
     <!-- myjavascript - copy this -->
     <center>
-     <div class="header1"  style=" background-color:#303030;width:100%;color:#FFD700;font-size:3vw;font-weight: bold;font-family: 'Merriweather Sans', sans-serif;"><b>Sum of Digits</b></div>
-     </center>
-     <br> <br> <br><br>
+    <div class="header1"  style=" background-color:#303030;width:100%;color:#FFD700;font-size:3vw;font-weight: bold;font-family: 'Merriweather Sans', sans-serif;"><b>Sum of Digits</b></div>
+    </center>
+    <br> <br> <br>
     <div class="inputdata inputContainer">
         <div></div>
-        <div class="heading-section">
+        <div class="heading-section" id="input_section" style="font-size: 1.8vw; height: 0.5vw;">
             Input Section
         </div>
-        <br> <br><br>
-        <div></div>
-        <input class="loc1" id="inputno" type="text" placeholder="Enter a number" style="margin-left:30%; width:40%;font-size:1vw; border-radius: 100px;">
-        <br>
-        <div></div>
-        <button onclick="getno()" class="submitbtn loc" id="submitbtn" style="margin-left:30%; max-width:40%;font-size:1vw; border-radius: 100px;color:#FFD700; background-color: #303030"><b>Submit</b></button>
-        <br>
-        <div></div>
-        <button style="margin-left:30%; max-width:40%;font-size:1vw; border-radius: 100px;;background-color:#303030"><a href="index.html" style="color:#FFD700"><b>Reset</b></a></button>
+        <br> <br> <br>
+        <button onclick="startProg()" class="submitbtn loc" id="startbtn" style="margin-left:30%; max-width:40%;font-size:2vw; border-radius: 100px;color:#FFD700; background-color: #303030"><b>Start</b></button>
         
-        <div></div>
-        <br><br>
-        <button onclick="executeCode()" class="nextbtn loc" id="nextbtn" style="margin-left:30%; max-width:40%;font-size:1vw; border-radius: 100px;color:#FFD700;background-color:#303030"><b>Next</b></button>
-        <div></div>
+        <input class="loc1" id="inputno" type="text" placeholder="Enter a number" style="margin-left:30%; width:40%;height:2vw;font-size:1.2vw; border-radius: 100px;">
+        <button style="margin-left:30%; max-width:40%;font-size:2vw; border-radius: 100px;background-color:#303030"><a href="index.html" style="color:#FFD700;text-decoration:none"><b>Reset</b></a></button>
+        <br>
+        <br>
+        <button onclick="getno()" class="submitbtn loc" id="submitbtn" style="margin-left:30%; max-width:40%;font-size:1.8vw; border-radius: 100px;color:#FFD700; background-color: #303030"><b>Submit</b></button>
+        
+        <br>
+
     </div>
     <div class = "mainContainer">
         <div class = "codeExecution">
@@ -47,37 +44,57 @@
                 <div id="codeTextLines">
                     <div class=" loc" id="line1">
                         #include &ltstdio.h&gt
+                        <div class="inlineComment" id="line1comment">
+                            Note that new library is added
+                        </div>
                     </div>
                     <div class=" loc" id="line2">
                         int main()
                     </div>
                     <div class=" loc" id="line3">{</div>
+
                     <div class=" loc" id="line4" style="padding-left: 7%;">
-                        int num, sum=0, remainder;
+                        int num=0, sum=0, remainder=0;
                     </div>
-                    
+
                     <div class=" loc" id="line5" style="padding-left: 7%;">
-                        while(num>0)
+                        printf(" Enter a number : ");
+                        <div class="inlineComment" id="line5comment">
+                            This message will be printed in the console
+                        </div>
                     </div>
                     <div class=" loc" id="line6" style="padding-left: 7%;">
+                        scanf("%d", &num);
+                        <div class="inlineComment" id="line6comment">
+                            Input value in the textbox above
+                        </div>
+                    </div>
+                    
+                    <div class=" loc" id="line7" style="padding-left: 7%;">
+                        while(num>0)
+                    </div>
+                    <div class=" loc" id="line8" style="padding-left: 7%;">
                         {
                     </div>
-                    <div class=" loc" id="line7" style="padding-left: 14%;">
+                    <div class=" loc" id="line9" style="padding-left: 14%;">
                         remainder = num%10;
                     </div>
-                    <div class=" loc" id="line8" style="padding-left: 14%;">
+                    <div class=" loc" id="line10" style="padding-left: 14%;">
                         sum = sum + remainder;
                     </div>
-                    <div class=" loc" id="line9" style="padding-left: 14%;">
+                    <div class=" loc" id="line11" style="padding-left: 14%;">
                         num = num/10;
                     </div>
-                    <div class="loc" id="line10" style="padding-left: 7%;">
+                    <div class="loc" id="line12" style="padding-left: 7%;">
                         }
                     </div>
-                    <div class="loc" id="line11" style="padding-left: 7%;">
+                    <div class="loc" id="line13" style="padding-left: 7%;">
                         printf("Sum of digits in number : %d", sum);
+                        <div class="inlineComment" id="line13comment">
+                            Sum is displayed on console
+                        </div>
                     </div>
-                    <div class="loc" id="line12" >
+                    <div class="loc" id="line14" >
                     }
                     </div>
                 </div>
@@ -116,7 +133,7 @@
                         Remainder
                     </div>
                     
-                    <div id="remainderblockName" style="padding-right: 2.7vw">
+                    <div id="remainderbflockName" style="padding-right: 2.7vw">
                       Sum
                     </div>
                     

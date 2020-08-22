@@ -5,123 +5,157 @@
 	height: 4vw;
 	font-size: 4vh;
 	padding-top: 1.3vmin;
-        }
-        .mainContainer {
-            display: grid;
-            grid-template-columns: 46% 46%;
-            grid-column-gap: 20px;
-            color: white;
-            align-content: center;
-            background-color: #ffffff;
-            padding: 10px;
-        }
+}
+.mainContainer {
+    display: grid;
+    grid-template-columns: 46% 46%;
+    grid-column-gap: 20px;
+    color: white;
+    align-content: center;
+    background-color: #ffffff;
+    padding: 10px;
+}
 
-        .inputContainer {
-            display:grid;
-            grid-template-columns: 25% 50% 25%;
-            align-content: center;
-            color: white;
-            background-color: #d4d4d4;
-            padding: 1vw;
-            
-        }
-        .heading-section {
-            color: black;
-            font-weight: bold;
-            text-align:center;
-            font-size: 1.5vw;
-            font-family: 'Noto Serif', serif;
-        }
-        .codeExecution{
-            border-radius: 6px;
-            position: relative;
-            width: 100%;
-            
-        }
-        .codeText {
-            font-size: 1.2em;
-            background-color:#303030;
-            height: 24vw;
-            border-radius: 6px;
-            padding: 6%;
-            
-        }
-        #codeTextLines{
-            visibility: hidden;
-        }
-        
-        .output-section {
-            background-color:#303030;
-            height: 24vw;
-            border-radius: 6px;
-            padding: 6%;
-            width: 100%
-            
-        }
+.inputContainer {
+    display:grid;
+    grid-template-columns: 25% 50% 25%;
+    align-content: center;
+    color: white;
+    background-color: #d4d4d4;
+    padding: 1vw;
+    
+}
+.heading-section {
+    color: black;
+    font-weight: bold;
+    text-align:center;
+    font-size: 1.5vw;
+    font-family: 'Noto Serif', serif;
+}
+.codeExecution{
+    border-radius: 6px;
+    position: relative;
+    width: 100%;
+    
+}
+.codeText {
+    font-size: 1.2em;
+    background-color:#303030;
+    height: 36vw;
+    border-radius: 6px;
+    padding: 2%;
+    padding-left: 3%;
+    
+}
+#codeTextLines{
+    visibility: hidden;
+}
 
-        .loc {
-            margin-top: 9px;
-            font-size:1.2vw;
-            
-        }
-        .loc1{
-            text-align: center;
-        }
-        
-        .nextbtn{
-            visibility: hidden;
-        }
-        .outputrow{
-            display:flex;
-            flex-direction:row;
-            justify-content: space-around;
-        }
-        #numblock{
-            display:flex;
-            flex-direction:row;
-            justify-content:center;
-            text-align: center;
-            width: 13vw;
-            height: 1vw;
-            line-height: 150%;
-            font-size: 2vw;
-            margin-top: 0%;
-            margin-bottom:5%;
-            padding-bottom: 5%; 
-            background-color: rgb(243, 80, 16);
-            border: solid 9px rgb(243, 80, 16);
-            border-radius: 1.5vw;
-        }
+.output-section {
+    background-color:#303030;
+    height: 34vw;
+    border-radius: 6px;
+    padding: 2%;
+    padding-top: 6.8%;
+    width: 100%;
+}
 
-        #remainderblock{
-            display:flex;
-            flex-direction:row;
-            justify-content:center;
-            text-align: center;
-            width: 13vw;
-            height: 1vw;
-            line-height: 150%;
-            font-size: 2vw;
-            margin-top: 0%;
-            margin-bottom:5%;
-            padding-bottom: 5%;
-            background-color: rgb(71, 170, 5);
-            border: solid 9px rgb(71, 170, 5);
-            border-radius: 1.5vw;
-        }
-        #sumblock{
-            display:flex;
-            flex-direction:row;
-            justify-content:center;
-            text-align: center;
-            width: 13vw;
-            height: 1vw;
-            line-height: 150%;
-            font-size: 2vw;
-            margin-top: 0%;
-            margin-bottom:5%;
-            padding-bottom: 5%;
-            background-color: rgb(24, 84, 216);
-            border: solid 9px rgb(24, 84, 216);
-            border-radius: 1.5vw;
-        }
+.loc {
+    margin-top: 9px;
+    font-size:1.2vw;
+    
+}
+.loc1{
+    text-align: center;
+}
+
+.nextbtn{
+    visibility: hidden;
+}
+.outputrow{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+    
+}
+#numblock{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    text-align: center;
+    width: 13vw;
+    height: 1vw;
+    line-height: 150%;
+    font-size: 2vw;
+    margin-top: 0%;
+    margin-bottom:5%;
+    padding-bottom: 5%; 
+    background-color: rgb(243, 80, 16);
+    border: solid 9px rgb(243, 80, 16);
+    border-radius: 1.5vw;
+}
+
+#remainderblock{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    text-align: center;
+    width: 13vw;
+    height: 1vw;
+    line-height: 150%;
+    font-size: 2vw;
+    margin-top: 0%;
+    margin-bottom:5%;
+    padding-bottom: 5%;
+    background-color: rgb(71, 170, 5);
+    border: solid 9px rgb(71, 170, 5);
+    border-radius: 1.5vw;
+}
+#sumblock{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    text-align: center;
+    width: 13vw;
+    height: 1vw;
+    line-height: 150%;
+    font-size: 2vw;
+    margin-top: 0%;
+    margin-bottom:5%;
+    padding-bottom: 5%;
+    background-color: rgb(24, 84, 216);
+    border: solid 9px rgb(24, 84, 216);
+    border-radius: 1.5vw;
+}
+
+.inlineComment{
+    display: inline;
+    background-color: #a6fcff;
+    color: black;
+    padding : 0.3vw;
+    padding-left: 0.6vw;
+    padding-right: 0.6vw;
+    font-size: 1vw;
+    border-radius: 3vw;
+    margin-left: 1vw;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.6;
+    visibility: hidden;
+    transition-duration: 1s easein;
+}
+
+#input_section {
+    visibility: hidden;
+}
+
+#submitbtn {
+    visibility: hidden;
+}
+
+#inputno {
+    visibility: hidden;
+}
+
+
+
