@@ -1,6 +1,6 @@
 ## Storyboard (Round 2)
 
-Experiment 1: Write a program to sum digit of a number
+Experiment 1: Write a program to sum digits of a number
 ### 1. Story Outline:
 
 To find the sum of digits we cut the last digit by taking the remainder after dividing the number by 10, and then divide the number by 10 again and again until the number becomes 0.To do these task in a single statement for loop can be used. As we know there are three different sections in the for loop. In the initialization phase we are doing nothing in this case, then in the condition checking phase are checking whether the number is greater than 0 or not. In the increment decrement phase, we are doing multiple tasks. At first we are incrementing the sum by taking the last digits of the number, and also reduce the number by dividing it by 10. By performing this experiment the student is able to understand the concept of loops and application of modulo operator.
@@ -57,7 +57,7 @@ D The program will show compile-time error<br><br>
 
 
 Formative assesment questions as mentioned in Round 1<br>
-Difficulty level: DEFINE<br>
+Difficulty level: DESCRIBE<br>
 <pre>
 #include <stdio.h>
 int i;
