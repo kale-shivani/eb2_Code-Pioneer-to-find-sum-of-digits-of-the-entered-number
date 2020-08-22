@@ -2,21 +2,25 @@
 
 Delete this line before submission : The core principle of Round 2 is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
 
-Experiment 1: Name of the Experiment
-
+Experiment 1: Write a program to sum digit of a number
 ### 1. Story Outline:
 
-Describe outline Here ( guide : The proposer should first draft the story outline for the proposed outline. This could be 2 or 3 paragraphs.)
+To find the sum of digits we cut the last digit by taking the remainder after dividing the number by 10, and then divide the number by 10 again and again until the number becomes 0.To do these task in a single statement for loop can be used. As we know there are three different sections in the for loop. In the initialization phase we are doing nothing in this case, then in the condition checking phase are checking whether the number is greater than 0 or not. In the increment decrement phase, we are doing multiple tasks. At first we are incrementing the sum by taking the last digits of the number, and also reduce the number by dividing it by 10. By performing this experiment the student is able to understand the concept of loops and application of modulo operator.
+
+2. Story:
 
 ### 2. Story:
 
-Describe the Story intorduction here (guide : The next step is to write a story. Story should be a brief logical description in simple English. It should talk about the overall execution of the experiment in a simplified manner. (should not include any equations/ drawings). The story should include the following points) )
+C is an imperative procedural language. It was designed to be compiled to provide low-level access to memory and language constructs that map efficiently to machine instructions, all with minimal runtime support. Despite its low-level capabilities, the language was designed to encourage cross-platform programming. A standards-compliant C program written with portability in mind can be compiled for a wide variety of computer platforms and operating systems with few changes to its source code. The Experiment is
+based on loops. Loops are used when a block of code needs to be executed several number of times. In general, statements are executed sequentially: The first statement in a function is executed first, followed by the second, and so on.Loop control statements change execution from its normal sequence. When execution leaves a scope, all automatic objects that were created in that scope are destroyed.Programming languages provide various control structures that allow for more complicated execution paths.
+
 
 #### 2.1 Set the Visual Stage Description:
-Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
+When the student visits the link of the simulator page, he sees canvas of screen size (lightorange shade). On this canvas input box to take input from user and blocks for code execution and Output Functioning are seen. On top-centre of the screen he observes the title ‘Sum of Digits’. Just below the title user observes an input box under the title Input section. Below input box there are three buttons "Submit", "Reset" and "Next".After entering number in input box ,user wil click on submit button ,code will appear on code execution block on left side and three boxes to display values of variable "sum","Remainder" and Number will be displayed on Output Functioning block.After pressing Next button program will excute step by step and changes in the values will be shown into respective boxes.
 
 #### 2.2 Set User Objectives & Goals:
-Describe the objectives and goals in details here : (guide : The user should clearly understand the aims and objective of the experiment. ( how he will begin experiment. ?  in descriptive))
+1. The prime objective of the experiment is to find sum of digits of a number entered by user
+2.
 
 #### 2.3 Set the Pathway Activities:
 
@@ -38,7 +42,7 @@ Tool can be used to integrate formula in Markdown <b> [here](http://latex.codeco
 
 
 ### 3. Flowchart 4
-<img src="flowchart/sum-of-digits-number-programming9.jpg"/><br>
+<img src="flowchart/flowchart.png"/><br>
 link to flow chart Here : Store in the  /flowchart folder within Round2 folder in your repo
 <br>
 (guide :The lab proposer should extract logic from the story, prepare a flowchart from the story narration and write the algorithm to execute the black box.  use Google Drawings https://docs.google.com/drawings/ (send the link to your flowchart and also attach .png by exporting it )
