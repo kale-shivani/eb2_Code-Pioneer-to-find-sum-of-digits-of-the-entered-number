@@ -27,7 +27,7 @@ The students know the concept of application of modulo operater and loops. They 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
 1.| User will be able to: <br>Describe flow  of program execution <br> | Understand | Describe
-2.| User will be able to: <br>Apply concept of loop  <br>| Apply | Sketch
+2.| User will be able to: <br>Sketch the concept of loop  <br>| Apply | Sketch
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
@@ -60,7 +60,7 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
 1.|<br> Describe flow  of program execution| <br> On the simulator , comments will be shown to students to understand the flow  |<br>
-2.|<br> Apply concept of loop| <br>On the simulator screen, step by step excution of program will be shown| <br>
+2.|<br> Sktech concept of loop| <br>On the simulator screen, step by step excution of program will be shown| <br>
 
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
@@ -75,7 +75,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Student will click on Simulation tab <br> | Simulator opens the experiment screen <br> | To open screen to perform experiment.
-2.| User is asked to give input <br> | Simulator accepts input <br> | Input Displayed to user.
-3.| student will press run button <br> | Simulator displayes values of Sum, Remainder and number <br> | Display of values.
-4.| student will press next button <br> | simulator displays changing value for every next instruction click <br> | to get final result.
+1.| Student will click on START Simulation tab <br> | Simulator opens the experiment screen <br> | To open screen to perform experiment.
+2.| student will press Next Button <br> | Simulator excutes Instructions step by step <br> | introduction of code and accepting of input
+3.| student will press "Submit" button <br> | Simulator displayes values of Sum, Remainder and number with every instruction executed<br> | Understanding of flow.
+
