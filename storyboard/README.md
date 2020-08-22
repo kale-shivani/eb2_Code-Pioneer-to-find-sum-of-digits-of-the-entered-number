@@ -38,7 +38,7 @@ Tool can be used to integrate formula in Markdown <b> [here](http://latex.codeco
 
 
 ### 3. Flowchart 4
-<img src="flowchart/flowchart.png"/><br>
+<img src="flowchart/sum-of-digits-number-programming9.jpg"/><br>
 link to flow chart Here : Store in the  /flowchart folder within Round2 folder in your repo
 <br>
 (guide :The lab proposer should extract logic from the story, prepare a flowchart from the story narration and write the algorithm to execute the black box.  use Google Drawings https://docs.google.com/drawings/ (send the link to your flowchart and also attach .png by exporting it )
