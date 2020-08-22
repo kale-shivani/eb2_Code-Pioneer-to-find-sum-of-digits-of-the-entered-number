@@ -3,19 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="css/index.css" rel="stylesheet" type="text/css">
+    <link href="New_css.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@700&family=Noto+Serif&display=swap" rel="stylesheet">
-    <script src="js/index.js"></script>
+    <script src="New_js.js"></script>
     <title>Document</title>
 
-
+    
 </head>
 <body style="background-color:#ffffff">
 
     <!-- myjavascript - copy this -->
     <center>
-     <div class="header1"  style=" background-color:#303030;width:100%;padding-bottom:20px ;color:#FFD700;font-size:43px;font-weight: bold;font-family: 'Merriweather Sans', sans-serif;"><b>Sum of Digits</b></div>
+     <div class="header1"  style=" background-color:#303030;width:100%;color:#FFD700;font-size:3vw;font-weight: bold;font-family: 'Merriweather Sans', sans-serif;"><b>Sum of Digits</b></div>
      </center>
      <br> <br> <br><br>
     <div class="inputdata inputContainer">
@@ -23,25 +23,25 @@
         <div class="heading-section">
             Input Section
         </div>
-        <br> <br>
+        <br> <br><br>
         <div></div>
-        <input class="loc1" id="inputno" type="text" placeholder="Enter a number" style="margin-left:30%; width:40%;font-size:18px; border-radius: 100px;">
+        <input class="loc1" id="inputno" type="text" placeholder="Enter a number" style="margin-left:30%; width:40%;font-size:1vw; border-radius: 100px;">
         <br>
         <div></div>
-        <button onclick="getno()" class="submitbtn loc" id="submitbtn" style="margin-left:40%; width:20%;font-size:18px; border-radius: 100px;color:#FFD700; background-color: #303030"><b>Submit</b></button>
+        <button onclick="getno()" class="submitbtn loc" id="submitbtn" style="margin-left:30%; max-width:40%;font-size:1vw; border-radius: 100px;color:#FFD700; background-color: #303030"><b>Submit</b></button>
         <br>
         <div></div>
-        <button style="margin-left:40%; width:20%;font-size:18px; border-radius: 100px;;background-color:#303030"><a href="index.html" style="color:#FFD700"><b>Reset</b></a></button>
+        <button style="margin-left:30%; max-width:40%;font-size:1vw; border-radius: 100px;;background-color:#303030"><a href="index.html" style="color:#FFD700"><b>Reset</b></a></button>
         
         <div></div>
         <br><br>
-        <button onclick="executeCode()" class="nextbtn loc" id="nextbtn" style="margin-left:40%; width:20%;font-size:18px; border-radius: 100px;color:#FFD700;background-color:#303030"><b>Next</b></button>
+        <button onclick="executeCode()" class="nextbtn loc" id="nextbtn" style="margin-left:30%; max-width:40%;font-size:1vw; border-radius: 100px;color:#FFD700;background-color:#303030"><b>Next</b></button>
         <div></div>
     </div>
     <div class = "mainContainer">
         <div class = "codeExecution">
-            <div class="heading-section">
-                <div   style="margin-left:35%; background-color:#fffff;width:40%; border-radius: 100px;color:#000000;"><b>Code Block</b><br></div>
+            <div class="heading-section" style="font-size:2vw">
+                Code Block
             </div>
             <div class="codeText">
                 <div id="codeTextLines">
@@ -86,8 +86,8 @@
 
         
         <div class="graphicDisplay">
-            <div class="heading-section">
-                Code Execution
+            <div class="heading-section" style="font-size:2vw">
+                 Output Functioning
             </div>
             <div class="output-section" id="output-section">
                 <!-- <h1 id="demo-output"></h1> -->
@@ -97,7 +97,7 @@
                     </div>
                 </div>
                 <div class="outputrow">
-                    <div class="numblock" id="numblockname" style="font-size:25px;line-height: 0px; margin-bottom: 20px;">
+                    <div class="numblock" id="numblockname" style="font-size:2vw;line-height: 0px; margin-bottom: 7vw;">
                         Number
                     </div>
                 </div>
@@ -111,17 +111,21 @@
                     </div>
                 </div>
 
-                <div class="outputrow" id="remSum" style="font-size:25px;line-height: 0px; margin-bottom: 20px;">
-                    <div id="remainderblockName">
+                <div class="outputrow" id="remSum" style="font-size:2vw;line-height: 0px; margin-bottom: 7vw;">
+                    <div id="remainderblockName" style="padding-right: 3vw">
                         Remainder
                     </div>
-                    <div id="sumblockName">
-                        Sum
+                    
+                    <div id="remainderblockName" style="padding-right: 2.7vw">
+                      Sum
                     </div>
+                    
                 </div>
                 
             </div>            
         </div>
     </div>
+
+
 </body>
 </html>
