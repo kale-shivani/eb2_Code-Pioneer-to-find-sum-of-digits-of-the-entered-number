@@ -37,7 +37,7 @@ Difficulty level: REMEMBER <br>
 Q How many types of loop are avilable in C Program?<br>
 A.1<br>
 B.2<br>
-C.<b>3</b><br>
+**C.3**<br>
 D.4<br><br>
 Formative assesment questions as mentioned in Round 1<br>
 Difficulty level: RECALL<br>
@@ -75,7 +75,7 @@ int main()
 
 What is correct about the above program?<br>
 A if block is executed.<br>
-**B else block is executed.**
+**B else block is executed.**<br>
 C It is unpredictable as i is not initialized.<br>
 D Error: misplaced else<br><br>
 
@@ -94,7 +94,7 @@ main() {
 
 What is the value of sum?<br>
 A. 4576<br>
-**B. 22**
+**B. 22**<br>
 C. 23<br>
 D. 34<br><br>
 
