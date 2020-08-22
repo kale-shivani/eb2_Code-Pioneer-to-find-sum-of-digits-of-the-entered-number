@@ -27,7 +27,7 @@ The students know the concept of application of modulo operater and loops. They 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
 1.| User will be able to: <br>Describe flow  of program execution <br> | Understand | Describe
-2.| User will be able to: <br>Sketch the concept of loop  <br>| Apply | Sketch
+2.| User will be able to: <br>Apply the concept of loop  <br>| Apply | Sketch
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
