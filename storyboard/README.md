@@ -25,13 +25,71 @@ When the student visits the link of the simulator page, he sees canvas of screen
 4. To calcu;ate the sum expected
 
 #### 2.3 Set the Pathway Activities:
-1. Click on the button “Start the simulator”. It takes to simulation screen
-2.
+1. Click on the button “Start the simulator”. It takes to simulation screen.
+2. Enter number into input box and click on "Submit" button.
+3. Program Code will appear in Code block and Variable names "Number","Remainder","Sum" with initialzed value to zero in right block will appear.
+4. Click on "next" button for executing step by step instruction ,It will show values changing in the variables in right block.
+5. After excection it will show "Execution Completed".
 
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
-Describe the challenges Here : (guide : Set Challenges and Questions/Complexity/variations in questions according to User’s level, so as to invoke the learners’ interest.  (while traversing, what challenges he will face? how he has to solve and overcome ? descriptive).)
+Formative assesment questions as mentioned in Round 1
+Difficulty level: REMEMBER
+Q How many types of loop are avilable in C Program?
+A. 1
+B. 2
+### C.3
+D. 4
+Formative assesment questions as mentioned in Round 1
+Difficulty level: RECALL
+Q  #include <stdio.h>
+ 
+int main()
+{
+    int i = 1024;
+    for (; i; i >>= 1)
+        printf("GeeksQuiz");
+    return 0;
+}
+How many times will GeeksQuiz be printed in the above program?
+A 10
+### B 11
+C Infinite
+D The program will show compile-time error
+
+Formative assesment questions as mentioned in Round 1
+Difficulty level: DEFINE
+Q. #include <stdio.h>
+int i;
+int main()
+{
+    if (i);
+    else
+        printf("Ëlse");
+    return 0;
+}
+What is correct about the above program?
+A if block is executed.
+### B else block is executed.
+C It is unpredictable as i is not initialized.
+D Error: misplaced else
+
+Formative assesment questions as mentioned in Round 1
+Difficulty level: APPLY
+
+#include<stdio.h>
+main() {
+   int n=4576, sum = 0;
+  for(; n > 0; sum += n%10, n/= 10) {
+   }
+   printf("The sum of digits: %d", sum);
+}
+What is the value of sum?
+A. 4576
+### B. 22
+C. 23
+D. 34
 
 ##### 2.5 Allow pitfalls:
 Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))
