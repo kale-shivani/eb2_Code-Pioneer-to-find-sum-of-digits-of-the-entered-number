@@ -38,13 +38,12 @@ Q How many types of loop are avilable in C Program?<br>
 A.1<br>
 B.2<br>
 C.<b>3</b><br>
-D.4<br>
+D.4<br><br>
 Formative assesment questions as mentioned in Round 1<br>
 Difficulty level: RECALL<br>
 Q<br/>
-#include <stdio.h><br>
- 
  <pre>
+ #include <stdio.h>
  int main()
 {
     int i = 1024;
@@ -53,18 +52,17 @@ Q<br/>
     return 0;
 }
 </pre>
-
 How many times will GeeksQuiz be printed in the above program?<br>
 A 10<br>
-B 11
+B 11<br>
 C Infinite<br>
-D The program will show compile-time error
+D The program will show compile-time error<br><br>
 
 
-Formative assesment questions as mentioned in Round 1
-Difficulty level: DEFINE
-
-include <stdio.h>
+Formative assesment questions as mentioned in Round 1<br>
+Difficulty level: DEFINE<br>
+<pre>
+#include <stdio.h>
 int i;
 int main()
 {
@@ -73,16 +71,18 @@ int main()
         printf("Ëlse");
     return 0;
 }
-What is correct about the above program?
-A if block is executed.
-# B else block is executed.
-C It is unpredictable as i is not initialized.
-D Error: misplaced else
+</pre>
+
+What is correct about the above program?<br>
+A if block is executed.<br>
+**B else block is executed.**
+C It is unpredictable as i is not initialized.<br>
+D Error: misplaced else<br><br>
 
 
-Formative assesment questions as mentioned in Round 1
-Difficulty level: APPLY
-
+Formative assesment questions as mentioned in Round 1<br>
+Difficulty level: APPLY<br>
+<pre>
 #include<stdio.h>
 main() {
    int n=4576, sum = 0;
@@ -90,37 +90,51 @@ main() {
    }
    printf("The sum of digits: %d", sum);
 }
-What is the value of sum?
-A. 4576
-### B. 22
-C. 23
-D. 34
+</pre>
+
+What is the value of sum?<br>
+A. 4576<br>
+**B. 22**
+C. 23<br>
+D. 34<br><br>
 
 ##### 2.5 Allow pitfalls:
-This pitfall does not mean wrong answer and retrying. It is designed to clear misconceptions or incorrect knowledge.Pitfalls are used to check the attention of program by the student.
-Choose a correct C do while syntax.
-A) 
+This pitfall does not mean wrong answer and retrying. It is designed to clear misconceptions or incorrect knowledge.Pitfalls are used to check the attention of program by the student.<br>
+Choose a correct C do while syntax.<br>
+A) <br>
+<pre>
 dowhile(condition)
 {
     //statements
 }
-B) 
+</pre>
+
+B) <br>
+<pre>
 do while(condition)
 {
     //statements
 }
-C) 
+</pre>
+
+C) <br>
+<pre>
 do
 {
     //statements
 
 }while(condition)
-D) 
+</pre>
+
+D) <br>
+<pre>
 do
 {
     //statements
 
 }while(condition);
+</pre>
+<br>
 
 ##### 2.6 Conclusion:
 Time taken by the student to attempt the questions: ----
