@@ -123,8 +123,7 @@ do
 }while(condition)
 </pre>
 
-D) <br>
-<b>
+<b>D) <br>
 <pre>
 do
 {
