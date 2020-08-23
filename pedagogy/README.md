@@ -59,8 +59,8 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.|<br>Interpret flow  of program execution| <br> On the simulator , comments will be shown to students to understand the flow  |<br> What is .h stands for? A. Binary file extension<br> **B.Header file extension**<br> C.Ascii file  extension<br> D.User Defined file | <br>
-2.|<br> Make use of the concept of loop | <br>On the simulator screen, step by step excution of program will be shown| <br> When does the code block following while (x<100) execute? **A. When x is less than one hundred**<br> B. When x is greater than one hundred<br>  C. When x is equal to one hundred<br>  D. While it wishes |<br> 
+1.|<br>Interpret flow  of program execution| <br> On the simulator , comments will be shown to students to understand the flow  |<br> What is .h stands for? <br>A. Binary file extension<br> <b>B.Header file extension</b><br> C.Ascii file  extension<br> D.User Defined file | <br>
+2.|<br> Make use of the concept of loop | <br>On the simulator screen, step by step excution of program will be shown| <br> When does the code block following while (x<100) execute?<br> <b>A. When x is less than one hundred<b><br> B. When x is greater than one hundred<br>  C. When x is equal to one hundred<br>  D. While it wishes |<br> 
 
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
