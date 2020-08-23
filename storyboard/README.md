@@ -6,9 +6,7 @@ Experiment 1: Write a program to sum digits of a number
 To find the sum of digits student will Get the number,Declare a variable to store the sum and set it to 0 .Repeat the next two steps till the number is not 0 using while loop.Get the rightmost digit of the number with help of remainder ‘%’ operator by dividing it with 10 and add it to sum.Divide the number by 10 with help of ‘/’ operator.Print or return the sum.
 
 ### 2. Story:
-
-C is an imperative procedural language. It was designed to be compiled to provide low-level access to memory and language constructs that map efficiently to machine instructions, all with minimal runtime support. Despite its low-level capabilities, the language was designed to encourage cross-platform programming. A standards-compliant C program written with portability in mind can be compiled for a wide variety of computer platforms and operating systems with few changes to its source code. The Experiment is
-based on loops. Loops are used when a block of code needs to be executed several number of times. In general, statements are executed sequentially: The first statement in a function is executed first, followed by the second, and so on.Loop control statements change execution from its normal sequence. When execution leaves a scope, all automatic objects that were created in that scope are destroyed.Programming languages provide various control structures that allow for more complicated execution paths.
+The Experiment is based on loops. Loops are used when a block of code needs to be executed several number of times. In general, statements are executed sequentially: The first statement in a function is executed first, followed by the second, and so on.Loop control statements change execution from its normal sequence. When execution leaves a scope, all automatic objects that were created in that scope are destroyed.Programming languages provide various control structures that allow for more complicated execution paths.
 
 
 #### 2.1 Set the Visual Stage Description:
@@ -23,24 +21,23 @@ When the student visits the link of the simulator page, he sees canvas of screen
 
 #### 2.3 Set the Pathway Activities:
 1. Click on the button “START”. It takes to simulation screen.
-
-2. Enter number into input box and click on "Submit" button.
-3. Program Code will appear in Code block and Variable names "Number","Remainder","Sum" with initialzed value to zero in right block will appear.
-4. Click on "next" button for executing step by step instruction ,It will show values changing in the variables in right block.
-5. After excection it will show "Execution Completed".
+2. "START" button will changed to "Next" button,Program Code will appear in Code block and Variable names "Number","Remainder","Sum" with initialzed value to zero in right block will appear.
+4. Click on "next" button for executing step by step instruction , user will get comments with every instruction executed.
+5. Input box will appear when instruction for input is executed , and "Next" button will convert to "SUBMIT" button.
+6. After submitting input, SUBMIT turns to Next and program will execute step by step showing changes of the values in Variable names "Number","Remainder","Sum"
+5. After excection it will show "Execution Completed" and result in Sum variable.
 
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
 Formative assesment questions as mentioned in Round 1
-Difficulty level: REMEMBER <br>
+Difficulty level: UNDERSTAND <br>
 Q How many types of loop are avilable in C Program?<br>
 A.1<br>
 B.2<br>
 **C.3**<br>
 D.4<br><br>
-Formative assesment questions as mentioned in Round 1<br>
-Difficulty level: RECALL<br>
+
  <pre>
  #include <stdio.h>
  int main()
@@ -59,7 +56,7 @@ D The program will show compile-time error<br><br>
 
 
 Formative assesment questions as mentioned in Round 1<br>
-Difficulty level: DESCRIBE<br>
+Difficulty level: APPLY <br>
 <pre>
 #include <stdio.h>
 int i;
@@ -78,9 +75,6 @@ A if block is executed.<br>
 C It is unpredictable as i is not initialized.<br>
 D Error: misplaced else<br><br>
 
-
-Formative assesment questions as mentioned in Round 1<br>
-Difficulty level: APPLY<br>
 <pre>
 #include<stdio.h>
 main() {
