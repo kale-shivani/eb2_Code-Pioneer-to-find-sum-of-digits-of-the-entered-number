@@ -1,1 +1,1 @@
-#### Dr. A.P.J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh
+#### Kolhapur Institue of Technology's college of engineering (Autonomous),Kolhapur.
