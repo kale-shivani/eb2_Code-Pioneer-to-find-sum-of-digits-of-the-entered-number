@@ -135,4 +135,4 @@ There are 4 programming questions with different difficulty levels. Assessment/e
 
 ### 5. Storyboard :
 
-Storyboard : <a href="storyboard/sum_of_digits.gif"> HERE </a>
+Storyboard : <a href="storyboard/storyboard_sum_of_digits.gif"> HERE </a>
