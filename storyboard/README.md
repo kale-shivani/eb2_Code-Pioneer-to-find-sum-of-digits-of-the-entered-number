@@ -93,42 +93,28 @@ D. 34<br><br>
 
 ##### 2.5 Allow pitfalls:
 This pitfall does not mean wrong answer and retrying. It is designed to clear misconceptions or incorrect knowledge.Pitfalls are used to check the attention of program by the student.<br>
-Choose a correct C do while syntax.<br>
-A) <br>
 <pre>
-dowhile(condition)
-{
-    //statements
+#include<stdio.h>
+int main(){
+	float ft = 7.5;
+	while(ft)
+	{
+		printf("Loop");
+		ft = ft - .5;
+		if(ft == 5.0f)
+			break;
+	}
+	return 0;
 }
 </pre>
+A. Prints Nothing
 
-B) <br>
-<pre>
-do while(condition)
-{
-    //statements
-}
-</pre>
+B. Looop
 
-C) <br>
-<pre>
-do
-{
-    //statements
+C. Loop Loop Loop Loop Loop
 
-}while(condition)
-</pre>
+D. Compilation Error
 
-<b>D) <br>
-<pre>
-do
-{
-    //statements
-
-}while(condition);
-</pre>
-</b>
-<br>
 
 ##### 2.6 Conclusion:
 Time taken by the student to attempt the questions: ----
@@ -144,7 +130,7 @@ There are 4 programming questions with different difficulty levels. Assessment/e
 ### 3. Flowchart 4
 <img src="flowchart/sum of digits.jpg"/><br><br>
 ### 4. Mindmap:
-<img src="mindmap/sum-of-num.JPG"/>
+<img src="mindmap/SUMOFDIGIT.png"/>
  Link to mindmap here : <a href="storyboard/mindmap_sum.pdf"> HERE </a>    
 
 ### 5. Storyboard :
