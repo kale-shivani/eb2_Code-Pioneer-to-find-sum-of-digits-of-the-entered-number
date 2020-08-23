@@ -2,44 +2,44 @@
 
    "details": [
        {
-			"Experiment": "",     
-			"Lab": "",               
-			"Discipline": "",				 
-			"Technology": ""         
+			"Experiment": " To find sum of digits of a number",     
+			"Lab": "Programming for problem solving lab",               
+			"Discipline": " Computer Science and engineering",				 
+			"Technology": "C Programming"         
        }
    ],
 
    "developer": [
        {       
-      "Developer": "",         
-      "Institute": "",         
-      "InstituteAcronym": ""   
+      "Developer": " Shivani Kale",         
+      "Institute": " Kolhapur Institute of  technology's college of Engineering ",         
+      "InstituteAcronym": "KITCOEK"   
        }
    ],
 
    "contributer": [
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Kshitij Rajendra Sangar",             
+     "Institute": " Kolhapur Institute of  technology's college of Engineering ",         
+      "InstituteAcronym": "KITCOEK"     
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Prathmesh Vivek Patil",              
+      "Institute": " Kolhapur Institute of  technology's college of Engineering ",         
+      "InstituteAcronym": "KITCOEK"   
+
+       {       
+			"Contributer": "Shailesh Shivaji Mohite",             
+      "Institute": " Kolhapur Institute of  technology's college of Engineering ",         
+      "InstituteAcronym": "KITCOEK"   
+    
        },
 
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
-       },
-
-       {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Sunil Sadashiv Bilur",              
+      "Institute": " Kolhapur Institute of  technology's college of Engineering ",         
+      "InstituteAcronym": "KITCOEK"       
        }
    ]
 
