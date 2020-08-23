@@ -127,7 +127,7 @@ There are 4 programming questions with different difficulty levels. Assessment/e
 
 
 ### 3. Flowchart 4
-<img src="flowchart/flowchart-Sum-of-digit.jpg"/><br><br>
+<img src="flowchart/flowchart-Sum-of-digit.png"/><br><br>
 ### 4. Mindmap:
 <img src="mindmap/sum-of-num.JPG"/>   
 
