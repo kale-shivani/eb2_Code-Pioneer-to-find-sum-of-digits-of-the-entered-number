@@ -70,7 +70,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 <a name="SI"></a>
 
-#### 4. Simulator Interactions:
+#### 5. Simulator Interactions:
 <br>
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
