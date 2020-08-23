@@ -3,7 +3,7 @@
 Experiment 1: Write a program to sum digits of a number
 ### 1. Story Outline:
 
-To find the sum of digits we use the last digit by taking the remainder after dividing the number by 10, and then divide the number by 10 again and again until the number becomes 0.To do these task in a single statement for loop can be used. As we know there are three different sections in the for loop. In the initialization phase we are doing nothing in this case, then in the condition checking phase are checking whether the number is greater than 0 or not. In the increment decrement phase, we are doing multiple tasks. At first we are incrementing the sum by taking the last digits of the number, and also reduce the number by dividing it by 10. By performing this experiment the student is able to understand the concept of loops and application of modulo operator.
+To find the sum of digits student will Get the number,Declare a variable to store the sum and set it to 0 .Repeat the next two steps till the number is not 0 using while loop.Get the rightmost digit of the number with help of remainder ‘%’ operator by dividing it with 10 and add it to sum.Divide the number by 10 with help of ‘/’ operator.Print or return the sum.
 
 ### 2. Story:
 
@@ -12,16 +12,18 @@ based on loops. Loops are used when a block of code needs to be executed several
 
 
 #### 2.1 Set the Visual Stage Description:
-When the student visits the link of the simulator page, he sees canvas of screen size (light orange shade). On this canvas input box to take input from user and blocks for code execution and Output Functioning are seen. On top-centre of the screen he observes the title ‘Sum of Digits’. Just below the title user observes an input box under the title Input section. Below input box there are three buttons "Submit", "Reset" and "Next".After entering number in input box ,user wil click on submit button ,code will appear on code execution block on left side and three boxes to display values of variable "sum","Remainder" and Number will be displayed on Output Functioning block.After pressing Next button program will excute step by step and changes in the values will be shown into respective boxes.
+
+When the student visits the link of the simulator page, he sees canvas of screen size (light orange shade) with title in top center "SUM OF DIGIT". On this canvas START button is seen to start program.Once START button is clicked button will turned to "NEXT" button.  The screen is divided into two blocks one for code execution and Output Functioning . when user click on "NEXT" execution will start and when input statement is reached input box will be shown  On top-centre of the screen with "SUBMIT" button.After giving input and clicking SUBMIT,It will change to NEXT button again. In Output Functioning box ,values of variables "sum","Remainder" and Number will be displayed. Code will appear on code execution block on left side.
 
 #### 2.2 Set User Objectives & Goals:
 1. The prime objective of the experiment is to find sum of digits of a number entered by user
-2. To identify Logic required for finding the output
-3. To Describe Logic in terms of c Programming construct
-4. To be able to apply formulas required to get output
+2. To understand use of while loop 
+3. To apply concept of while loop
+
 
 #### 2.3 Set the Pathway Activities:
-1. Click on the button “Start the simulator”. It takes to simulation screen.
+1. Click on the button “START”. It takes to simulation screen.
+
 2. Enter number into input box and click on "Submit" button.
 3. Program Code will appear in Code block and Variable names "Number","Remainder","Sum" with initialzed value to zero in right block will appear.
 4. Click on "next" button for executing step by step instruction ,It will show values changing in the variables in right block.
