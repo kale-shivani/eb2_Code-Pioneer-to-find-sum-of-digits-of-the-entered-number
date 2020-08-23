@@ -26,8 +26,8 @@ The students know the concept of application of modulo operater and loops. They 
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Describe flow  of program execution <br> | Understand | Describe
-2.| User will be able to: <br>Apply the concept of loop  <br>| Apply | Sketch
+1.| User will be able to: <br>Interpret flow  of program execution <br> | Understand | Interpret
+2.| User will be able to: <br>Make use of the concept of loop  <br>| Apply | Make use of
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
@@ -59,8 +59,8 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.|<br> Describe flow  of program execution| <br> On the simulator , comments will be shown to students to understand the flow  |<br>
-2.|<br> Sktech concept of loop| <br>On the simulator screen, step by step excution of program will be shown| <br>
+1.|<br>Interpret flow  of program execution| <br> On the simulator , comments will be shown to students to understand the flow  |<br> 
+2.|<br> Make use of the concept of loop | <br>On the simulator screen, step by step excution of program will be shown| <br>
 
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
