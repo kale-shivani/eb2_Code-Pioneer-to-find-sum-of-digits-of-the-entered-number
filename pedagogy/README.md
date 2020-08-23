@@ -19,7 +19,7 @@
 
 <a name="LO"></a>
 #### 1. Focus Area : Reinforce theroretical concept
-The students know the concept of application of modulo operater and loops. They do the experimentation based on the logic they can apply to the input, trial and error and learn from it, finally analyzing results with standard value.
+The students know the concept of application of modulo operater and loops. They will experiment  logic written in code by applying  input, trial and error and learn from it, finally analyzing results with standard value.
 
 #### 2. Learning Objectives and Cognitive Level
 
@@ -43,7 +43,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <u> <b>Description: </b></u>
 <br>
-Students will declare number of variables required for program.input and output statemetns are defined. They will convert logic of program into programming construct.Input value will be put in the formula which inturn runs in loop. Finally program will give the sum of digits of number entered when condition is met.
+Students will get to know declaration and initialization of variables . They will able to get  logic of program by sequential execution of instruction. How Input value will be put in the formula which inturn runs in loop. Finally program will give the sum of digits of number entered when condition is met.
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
