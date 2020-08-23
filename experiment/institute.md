@@ -1,1 +1,1 @@
-#### Kolhapur Institute of Technology's College of Engineering,Kolhapur
+#### Dr. A.P.J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh
