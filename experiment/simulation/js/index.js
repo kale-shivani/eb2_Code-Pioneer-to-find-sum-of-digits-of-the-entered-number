@@ -16,7 +16,7 @@ var letters = /[0-9]/;
             num = num1;
             document.getElementById('inputno').style.visibility = "hidden";
             document.getElementById('input_section').innerHTML = "<br>Entered number : " + num;
-            document.getElementById('input_section').style.fontSize = "2.5vw";
+            document.getElementById('input_section').style.fontSize = "1.5vw";
             document.getElementById('numblock').innerHTML = num;
             document.getElementById('numblock').style.borderColor = "white";
         }   
