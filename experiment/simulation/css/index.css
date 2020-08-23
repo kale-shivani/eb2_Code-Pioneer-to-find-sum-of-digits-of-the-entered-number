@@ -90,8 +90,8 @@
     margin-top: 0%;
     margin-bottom:5%;
     padding-bottom: 5%; 
-    background-color: rgb(243, 80, 16);
-    border: solid 9px rgb(243, 80, 16);
+    background-color: #546b9c;
+    border: solid 9px #546b9c;
     border-radius: 1.5vw;
 }
 
@@ -123,8 +123,10 @@
     margin-top: 0%;
     margin-bottom:5%;
     padding-bottom: 5%;
-    background-color: rgb(24, 84, 216);
-    border: solid 9px rgb(24, 84, 216);
+    background-color: rgb(243, 80, 16);
+    border: solid 9px rgb(243, 80, 16);
+    /*background-color: #546b9c;
+    border: solid 9px #546b9c;*/
     border-radius: 1.5vw;
 }
 
@@ -156,6 +158,3 @@
 #inputno {
     visibility: hidden;
 }
-
-
-
