@@ -2,9 +2,7 @@
 
 Experiment 1: Write a program to sum digits of a number
 ### 1. Story Outline:
-
-
-To find the sum of digits student will get the number,Declare a variable to store the sum and set it to 0 .Repeat the next two steps till the number is not 0 using while loop.Get the rightmost digit of the number with help of remainder ‘%’ operator by dividing it with 10 and add it to sum.Divide the number by 10 with help of ‘/’ operator.Print or return the sum.
+Students will see simulator for SUM OF DIGITS title.Simulator will show C program code for sum of digits.It shows step by step instruction execution of program to understand the what each statement in program is performing.To find the sum of digits student will get the number,Declare a variable to store the sum and set it to 0 .Repeat the next two steps till the number is not 0 using while loop.Get the rightmost digit of the number with help of remainder ‘%’ operator by dividing it with 10 and add it to sum.Divide the number by 10 with help of ‘/’ operator.Print or return the sum. 
 
 ### 2. Story:
 The Experiment is based on loops. Loops are used when a block of code needs to be executed several number of times. In general, statements are executed sequentially: The first statement in a function is executed first, followed by the second, and so on.Loop control statements change execution from its normal sequence. When execution leaves a scope, all automatic objects that were created in that scope are destroyed.Programming languages provide various control structures that allow for more complicated execution paths.
@@ -51,7 +49,7 @@ D.4<br><br>
 </pre>
 Q How many times will GeeksQuiz be printed in the above program?<br>
 A 10<br>
-**B.11**<br>
+<b>B.11</b><br>
 C Infinite<br>
 D The program will show compile-time error<br><br>
 
@@ -72,7 +70,7 @@ int main()
 
 Q What is correct about the above program?<br>
 A if block is executed.<br>
-**B else block is executed.**<br>
+B <b>else block is executed.</b><br>
 C It is unpredictable as i is not initialized.<br>
 D Error: misplaced else<br><br>
 
@@ -88,7 +86,7 @@ main() {
 
 What is the value of sum?<br>
 A. 4576<br>
-**B. 22**<br>
+<b>B.22</b><br>
 C. 23<br>
 D. 34<br><br>
 
@@ -108,13 +106,13 @@ int main(){
 	return 0;
 }
 </pre>
-A. Prints Nothing
+A. Prints Nothing <br>
 
-B. Looop
+B. Looop<br>
 
-**C. Loop Loop Loop Loop Loop**
+<b>C. Loop Loop Loop Loop Loop** </b><br>
 
-D. Compilation Error
+D. Compilation Error<br><br>
 
 
 ##### 2.6 Conclusion:
