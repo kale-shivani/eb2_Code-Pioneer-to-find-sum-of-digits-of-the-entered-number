@@ -144,7 +144,7 @@ There are 4 programming questions with different difficulty levels. Assessment/e
 ### 3. Flowchart 4
 <img src="flowchart/sum of digits.jpg"/><br><br>
 ### 4. Mindmap:
-<img src="mindmap/SUMOFDIGIT.png"/>
+<img src="mindmap/sum-of-num.JPG"/>
  Link to mindmap here : <a href="storyboard/mindmap_sum.pdf"> HERE </a>    
 
 ### 5. Storyboard :
