@@ -76,6 +76,6 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
 1.| Student will click on START Simulation tab <br> | Simulator opens the experiment screen <br> | To open screen to perform experiment.
-2.| student will press Next Button <br> | Simulator excutes Instructions step by step <br> | introduction of code and accepting of input
+2.| student will press Next Button <br> | Simulator excutes Instructions step by step <br> | Introduction of code and accepting of input
 3.| student will press "Submit" button <br> | Simulator displayes values of Sum, Remainder and number with every instruction executed<br> | Understanding of while loop excution.
 
