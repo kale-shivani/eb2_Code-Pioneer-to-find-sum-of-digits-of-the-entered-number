@@ -88,39 +88,110 @@
 /////////////// Write the MCQ below in the exactly same described format ///////////////
 
 
+  
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "Choose correct C while loop syntax.",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "while(condition)
+            {
+              //statements
+            }",                        ///// Write the option 1 inside double quotes
+        b: "{
+                //statements
+             }while(condition)",                  ///// Write the option 2 inside double quotes
+        c: "while(condition);
+            {
+              //statements
+            }",                  ///// Write the option 3 inside double quotes
+        d: "while()
+            {
+                if(condition)
+                {
+                    //statements
+                }
+            }"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
     },
 
     {
-      question: "This is question 2?",  ///// Write the question inside double quotes
+      question: "Choose a correct C for loop syntax.",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "for(initalization; condition; incrementoperation)
+            {
+                //statements
+            }",                  ///// Write the option 1 inside double quotes
+        b: "for(declaration; condition; incrementoperation)
+            {
+                //statements
+            }",                  ///// Write the option 2 inside double quotes
+        c: "for(declaration; incrementoperation; condition)
+            {
+                //statements
+            }",                  ///// Write the option 3 inside double quotes
+        d: "for(initalization; condition; incrementoperation;)
+            {
+                //statements
+            }"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
+    },                                  ///// To add more questions, copy the section below 
+    
+    {
+      question: "What is the output of C Program.? 
+                  int main()
+                  {
+                      int a=5;
+
+                      while(a==5)    
+                      {
+                          printf("RABBIT");
+                          break;
+                      }
+
+                      return 0;
+                  }",  ///// Write the question inside double quotes
+      answers: {
+        a: "RABBIT is printed unlimited number of times",                  ///// Write the option 1 inside double quotes
+        b: "RABBIT",                  ///// Write the option 2 inside double quotes
+        c: "Compiler error",                  ///// Write the option 3 inside double quotes
+        d: "None of the above."                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
-    },                                  ///// To add more questions, copy the section below 
-    									                  ///// this line
+    }, 
+    
+    
+    {
+      question: "What is the output of C Program.?  
+                  int main()
+                  {
+                      int a=5;
+
+                      while(a=123)    
+                      {
+                          printf("RABBIT\n");
+                          break;
+                      }
+                      printf("GREEN");
+
+                      return 0;
+                  }",  ///// Write the question inside double quotes
+      answers: {
+        a: "GREEN",                  ///// Write the option 1 inside double quotes
+        b: "RABBIT GREEN",                  ///// Write the option 2 inside double quotes
+        c: "RABBIT is printed unlimited number of times.",                  ///// Write the option 3 inside double quotes
+        d: "Compiler error."                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
+    }, 
 
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
         till closing curly braces comma ( }, )
-
         and paste it below the curly braces comma ( below correct answer }, ) of above 
         question
-
     Copy below section
-
     {
       question: "This is question n?",
       answers: {
@@ -131,15 +202,14 @@
       },
       correctAnswer: "c"
     },
-
     Copy above section
-
     */
 
 
 
 
   ];
+  
 
 
 
