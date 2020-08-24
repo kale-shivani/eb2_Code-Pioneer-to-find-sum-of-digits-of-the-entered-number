@@ -110,7 +110,7 @@ A. Prints Nothing <br>
 
 B. Looop<br>
 
-<b>C. Loop Loop Loop Loop Loop** </b><br>
+<b>C. Loop Loop Loop Loop Loop.</b><br>
 
 D. Compilation Error<br><br>
 
