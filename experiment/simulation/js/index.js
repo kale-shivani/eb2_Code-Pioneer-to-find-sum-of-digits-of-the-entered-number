@@ -23,7 +23,8 @@ var letters = /[0-9]/;
     }
     else{
         alert('Invalid Number');
-        window.location.reload();
+        //('inputno').attr('placeholder', 'Enter a number');
+        //document.getElementById('inputno').style.placeholder = "Enter a number";
     }  
 }
 
