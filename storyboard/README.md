@@ -12,7 +12,7 @@ After simulation starts,student will see code.Student will start execution while
 
 #### 2.1 Set the Visual Stage Description:
 
-When the student visits the link of the simulator page, he sees canvas of screen size (light orange shade) with title in top center "SUM OF DIGIT". On this canvas START button is seen to start program.Once START button is clicked button will turned to "NEXT" button.  The screen is divided into two blocks one for code execution and Output Functioning . when user click on "NEXT" execution will start and when input statement is reached input box will be shown  On top-centre of the screen with "SUBMIT" button.After giving input and clicking SUBMIT,It will change to NEXT button again. In Output Functioning box ,values of variables "sum","Remainder" and Number will be displayed. Code will appear on code execution block on left side.
+When the student visits the link of the simulator page, he sees canvas of screen size (light orange shade) with title in top center "SUM OF DIGIT". On this canvas START button is seen to start program.Once START button is clicked button will turned to "NEXT" button.  The screen is divided into two blocks one for code execution and Output Functioning . when user click on "NEXT" execution will start and when scanf  statement is reached input box will be shown exactly to the left side of the input statment.After giving input and clicking SUBMIT,It will change to NEXT button again. In Output Functioning box ,values of variables "sum","Remainder" and Number will be displayed. Code will appear on code execution block on left side.
 
 #### 2.2 Set User Objectives & Goals:
 1. The prime objective of the experiment is to find sum of digits of a number entered by user
@@ -49,7 +49,7 @@ D.4<br><br>
     return 0;
 }
 </pre>
-Q How many times will GeeksQuiz be printed in the above program?<br>
+Q How many times will MHRD be printed in the above program?<br>
 A 10<br>
 <b>B.11</b><br>
 C Infinite<br>
