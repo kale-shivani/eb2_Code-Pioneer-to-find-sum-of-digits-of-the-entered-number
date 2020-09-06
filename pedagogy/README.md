@@ -1,13 +1,13 @@
 ## Pedagogy (Round 1)
 <p align="center">
 <br>
-<b> Programming for Problem Solving Lab  <a name="top"></a><br>
+<b> Programming for Problem Solving Lab  <a name="top"></a></b><br>
 </p>
 
 <b>Discipline | <b>Computer Science and Engineering
 :--|:--|
-<b> Lab | <b> Programming for Problem Solving Lab 
-<b> Experiment|     <b> 1. Write a Program to find sum of digits of a entered number
+<b> Lab </b>| <b> Programming for Problem Solving Lab </b>
+<b> Experiment</b>|     <b> 1. Write a Program to find sum of digits of a entered number
 
 
 <h4> [1. Focus Area](#LO)
@@ -17,7 +17,7 @@
 <h4> [5. Simulator Interactions](#SI)
 <hr>
 
-<a name="LO"></a>
+<a name="LO"></a></b>
 #### 1. Focus Area : Reinforce theroretical concept
 Reinforce theroretical concept mean re-registering concept learnt previously.The students have learnt the loops in the theory.So the simultor is showing how while loop is getting excuted when condition is true and what will happen when condition is false.So they are verifying the working of while loop.
 #### 2. Learning Objectives and Cognitive Level
