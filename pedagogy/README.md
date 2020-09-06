@@ -19,8 +19,7 @@
 
 <a name="LO"></a>
 #### 1. Focus Area : Reinforce theroretical concept
-The students know the concept of application of modulo operater and loops. They will experiment  logic written in code by applying  input, trial and error and learn from it, finally analyzing results with standard value.
-
+Reinforce theroretical concept mean re-registering concept learnt previously.The students have learnt the loops in the theory.So the simultor is showing how while loop is getting excuted when condition is true and what will happen when condition is false.So they are verifying the working of while loop.
 #### 2. Learning Objectives and Cognitive Level
 
 
