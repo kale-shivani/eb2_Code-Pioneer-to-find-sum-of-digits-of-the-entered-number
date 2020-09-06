@@ -43,7 +43,7 @@ D.4<br><br>
 {
     int i = 1024;
     for (; i; i >>= 1)
-        printf("GeeksQuiz");
+        printf("MHRD");
     return 0;
 }
 </pre>
