@@ -2,10 +2,12 @@
 
 Experiment 1: Write a program to sum digits of a number
 ### 1. Story Outline:
-Students will see simulator for SUM OF DIGITS title.Simulator will show C program code for sum of digits.It shows step by step instruction execution of program to understand the what each statement in program is performing.To find the sum of digits student will get the number,Declare a variable to store the sum and set it to 0 .Repeat the next two steps till the number is not 0 using while loop.Get the rightmost digit of the number with help of remainder ‘%’ operator by dividing it with 10 and add it to sum.Divide the number by 10 with help of ‘/’ operator.Print or return the sum. 
+The Experiment is based on loops. Loops are used when a block of code needs to be executed several number of times. In general, statements are executed sequentially: The first statement in a function is executed first, followed by the second, and so on.Loop control statements change execution from its normal sequence. When execution leaves a scope, all automatic objects that were created in that scope are destroyed.Programming languages provide various control structures that allow for more complicated execution paths.
+It shows step by step instruction execution of program to understand the what each statement in program is performing.To find the sum of digits student will get the number,Declare a variable to store the sum and set it to 0 .Repeat the next two steps till the number is not 0 using while loop.Get the rightmost digit of the number with help of remainder ‘%’ operator by dividing it with 10 and add it to sum.Divide the number by 10 with help of ‘/’ operator.Print or return the sum. 
 
 ### 2. Story:
-The Experiment is based on loops. Loops are used when a block of code needs to be executed several number of times. In general, statements are executed sequentially: The first statement in a function is executed first, followed by the second, and so on.Loop control statements change execution from its normal sequence. When execution leaves a scope, all automatic objects that were created in that scope are destroyed.Programming languages provide various control structures that allow for more complicated execution paths.
+
+After simulation starts,student will see code.Student will start execution while executing it shows message to user about every statemt. when scanf statement executes user will input a number.It is Stored  in variable number.To Find sum of digits of the number while loop is executed. in loop to get last digit modulo division the number by 10 i.e. lastDigit = num % 10 will be executed and Addition of  last digit found to sum i.e. sum = sum + lastDigit will be executed.It is again repeated in loop remove last digit from number by dividing the number by 10 i.e. num = num / 10.Repeat step 2-4 till number becomes 0. Finally program will be left with the sum of digits in sum.
 
 
 #### 2.1 Set the Visual Stage Description:
