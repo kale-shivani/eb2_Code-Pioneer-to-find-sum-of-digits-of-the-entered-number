@@ -76,5 +76,5 @@ Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
 1.| Student will click on START Simulation tab <br> | Simulator opens the experiment screen <br> | To open screen to perform experiment.
 2.| Student will press "Next" Button <br> | Simulator excutes Instructions step by step <br> | Introduction of code and accepting of input
-3.| Student will press "Submit" button <br> | Simulator accepts input and excute while loop to give result<br> | Understanding of while loop excution.
+3.| Student will press "Submit" button <br> | Simulator accepts input and excute while loop to give result<br> | Understanding of while loop execution.
 
