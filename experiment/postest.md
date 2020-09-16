@@ -13,10 +13,21 @@ C. Loop Loop Loop
 
 D. Prints Nothing<br><br>
 
-Q 2. What will happen, if sodium light is replaced with white light?<br>
-a. There will be no interference fringe<br>
-b. There will be interference fringe<br>
-<b>c. colored fringes will be observed<br></b>
+Q 2. int main()
+{
+    int a=25;
+    
+    while(a <= 27)
+    {
+        printf("%d ", a);
+        a++;
+    }
+
+    return 0;
+}<br>
+a. 25 25 25<br>
+<b>b. 25 26 27<br></b>
+c. 27 27 27<br>
 d. No change in pattern is visible<br>
 
 Q 3. What will appear, if in place of lens, a plane glass making some angle with the glass stripe  is used?<br>
