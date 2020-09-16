@@ -1,4 +1,3 @@
-This folder has 
 ### Aim
 To Understand the concept of while Loop in C Programming Language
 
