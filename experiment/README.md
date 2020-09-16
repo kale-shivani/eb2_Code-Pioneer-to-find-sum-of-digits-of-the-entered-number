@@ -36,7 +36,7 @@ b) while<br>
 d) None of the above <br>
 
 5) In the given statement, what does the “sample” indicate?<br> 
-        int *sample[50];<br>
+                int *sample[50];<br>
 a) array of characters<br>
 <b>b) array of int pointers<br></b>
 c) function<br>
