@@ -11,28 +11,42 @@ In most computer programming languages, a while loop is a control flow statement
 4. After submitting input, SUBMIT turns to Next and program will execute step by step showing changes of the values in Variable names "Number","Remainder","Sum" After excection it will show "Execution Completed" and result in Sum variable.
 
 ### Pre Test
-1) While loop checks the condition and the loop keeps on running till the condition is true, it stops when the condition becomes false ____________.<br>
-<b> a) True<br></b>
-b) False<br>
+1) Which of the following is not considered as a logical operator?<br>
+a) &&<br>
+b) !<br>
+c) ||<br>
+<b>d) //<br></b>
 
-2) Choose a right C Statement.<br>
-a) Loops or Repetition block executes a group of statements repeatedly.<br>
-b) Loop is usually executed as long as a condition is met.<br>
-c) Loops usually take advantage of Loop Counter<br>
-<b> d) All the above.</b><br>
+2) Which function is used to flush streams in C?<br>
+<b>a) fflush<br></b>
+b) flusher<br>
+c) fempty<br>
+d) fflusher<br>
 
-3) Loops in C Language are implemented using.?<br>
-a) While Block<br>
-b) For Block<br>
-c) Do While Block<br>
-<b> d) All the above</b> <br>
+3) Which function is used to input strings including spaces?<br>
+a) scanf()
+<b>b) gets()</b>
+c) printf()
+d) input()
 
-4) Which loop is faster in C Language, for, while or Do While.? <br>
-a) for<br>
-b) while<br>
-c) do while<br>
-<b> d)  All work at same speed<br> </b>
+4) Which loop runs at least once regardless of condition?<br>
+a) for
+b) while
+<b>c) do while </b>
+d) None of the above 
 
+5) In the given statement, what does the “sample” indicate? 
+        int *sample[50];
+a) array of characters
+<b>b) array of int pointers</b>
+c) function
+d) None of the above
+
+6) Which of the following is a conditional operator?
+<b>a) ? :</b>
+b) &&
+b) *
+c) ^
 
 ### Post Test
 Q 1. How many times while loop excutes? <br>
