@@ -24,29 +24,29 @@ c) fempty<br>
 d) fflusher<br>
 
 3) Which function is used to input strings including spaces?<br>
-a) scanf()
-<b>b) gets()</b>
-c) printf()
-d) input()
+a) scanf()<br>
+<b>b) gets()<br></b>
+c) printf()<br>
+d) input()<br>
 
 4) Which loop runs at least once regardless of condition?<br>
-a) for
-b) while
-<b>c) do while </b>
-d) None of the above 
+a) for<br>
+b) while<br>
+<b>c) do while<br> </b>
+d) None of the above <br>
 
 5) In the given statement, what does the “sample” indicate? 
-        int *sample[50];
-a) array of characters
-<b>b) array of int pointers</b>
-c) function
-d) None of the above
+        int *sample[50];<br>
+a) array of characters<br>
+<b>b) array of int pointers<br></b>
+c) function<br>
+d) None of the above<br>
 
 6) Which of the following is a conditional operator?
-<b>a) ? :</b>
-b) &&
-b) *
-c) ^
+<b>a) ? : <br></b>
+b) &&<br>
+b) *<br>
+c) ^<br>
 
 ### Post Test
 Q 1. How many times while loop excutes? <br>
