@@ -67,10 +67,10 @@ d. No change in pattern is visible<br>
 ### References
 Textbooks:
 
-Programming with C by Bryon Gottfried, Schaum’s Outlines.
-Let Us C by Yashwant Kanetkar 14th Edition BPB Publication
-C Programming Laboratory: Handbook for Beginners by Sidnal, Wiley India Limited.
-http://www.spoken-tutorial.org/ NMEICT Project of Govt. Of India.
-Linux MAN pages Reference books
-C How to Program, Harvey M. Deitel , Paul J. Deitel, Abbey Deitel, Pearson Publication
-The `C' Programming Language, By B.W. Kernigghan and D. M. Ritchie, Pearson Education.
+Programming with C by Bryon Gottfried, Schaum’s Outlines.<br>
+Let Us C by Yashwant Kanetkar 14th Edition BPB Publication<br>
+C Programming Laboratory: Handbook for Beginners by Sidnal, Wiley India Limited.<br>
+http://www.spoken-tutorial.org/ NMEICT Project of Govt. Of India.<br>
+Linux MAN pages Reference books<br>
+C How to Program, Harvey M. Deitel , Paul J. Deitel, Abbey Deitel, Pearson Publication<br>
+The `C' Programming Language, By B.W. Kernigghan and D. M. Ritchie, Pearson Education.<br>
