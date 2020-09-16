@@ -50,15 +50,16 @@ C. Loop Loop Loop
 D. Prints Nothing
 
 
-Q 2.int main() { int a=25;
-while(a <= 27)
-{
-    printf("%d ", a);
-    a++;
-}
-
-return 0;
-}
+Q 2.int main() <br>
+{ <br>
+int a=25;<br>
+while(a <= 27)<br>
+{<br>
+    printf("%d ", a);<br>
+    a++;<br>
+}<br>
+return 0;<br>
+}<br>
 a. 25 25 25<br>
 <b>b. 25 26 27<br></b>
 c. 27 27 27<br>
