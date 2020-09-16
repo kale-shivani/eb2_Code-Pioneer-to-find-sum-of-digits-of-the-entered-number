@@ -43,7 +43,7 @@ print('repeat loop:' , i)<br>
 i = i+1<br>
 A. Loop Loop Loop Loop Loop
 
-B. Infinite Loop
+<b>B. Infinite Loop</b>
 
 C. Loop Loop Loop
 
