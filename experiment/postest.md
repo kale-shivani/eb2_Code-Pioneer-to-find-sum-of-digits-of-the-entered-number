@@ -1,10 +1,17 @@
 ## Post test
 <br>
-Q 1. What will happen, if the glass plate is replaced with plane mirror?<br>
-<b>a. There will be no interference fringe<br></b>
-b. There will be interference fringe<br>
-c. colored fringes will be observed<br>
-d. None of the options<br><br>
+Q 1.How many times while loop excutes?
+i=1
+while i <= 4:
+    print('repeat loop:' , i)
+    i = i+1<br>
+<b>A. Loop Loop Loop Loop Loop
+
+B. Infinite Loop
+
+C. Loop Loop Loop
+
+D. Prints Nothing<br><br>
 
 Q 2. What will happen, if sodium light is replaced with white light?<br>
 a. There will be no interference fringe<br>
