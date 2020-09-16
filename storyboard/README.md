@@ -23,105 +23,20 @@ When the student visits the link of the simulator page, he sees canvas of screen
 1. Click on the button “START”. It takes to simulation screen.
 2. "START" button will changed to "Next" button,Program Code will appear in Code block and Variable names "Number","Remainder","Sum" with initialzed value to zero in right block will appear.
 4. Click on "next" button for executing step by step instruction , user will get comments with every instruction executed.
-5. Input box will appear when instruction for input is executed , and "Next" button will convert to "SUBMIT" button.
+5. Input box will appear in front of scanf instruction for input to be given, and "Next" button will convert to "SUBMIT" button.
 6. After submitting input, SUBMIT turns to Next and program will execute step by step showing changes of the values in Variable names "Number","Remainder","Sum"
 5. After excection it will show "Execution Completed" and result in Sum variable.
 
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
-Formative assesment questions as mentioned in Round 1
-Difficulty level: UNDERSTAND <br>
-Q How many types of loop are avilable in C Program?<br>
-A.1<br>
-B.2<br>
-**C.3**<br>
-D.4<br><br>
-
- <pre>
- #include <stdio.h>
- int main()
-{
-    int i = 1024;
-    for (; i; i >>= 1)
-        printf("MHRD");
-    return 0;
-}
-</pre>
-Q How many times will MHRD be printed in the above program?<br>
-A 10<br>
-<b>B.11</b><br>
-C Infinite<br>
-D The program will show compile-time error<br><br>
-
-
-Formative assesment questions as mentioned in Round 1<br>
-Difficulty level: APPLY <br>
-<pre>
-#include <stdio.h>
-int i;
-int main()
-{
-    if (i);
-    else
-        printf("Ëlse");
-    return 0;
-}
-</pre>
-
-Q What is correct about the above program?<br>
-A if block is executed.<br>
-B <b>else block is executed.</b><br>
-C It is unpredictable as i is not initialized.<br>
-D Error: misplaced else<br><br>
-
-<pre>
-#include<stdio.h>
-main() {
-   int n=4576, sum = 0;
-  for(; n > 0; sum += n%10, n/= 10) {
-   }
-   printf("The sum of digits: %d", sum);
-}
-</pre>
-
-What is the value of sum?<br>
-A. 4576<br>
-<b>B.22</b><br>
-C. 23<br>
-D. 34<br><br>
+NA
 
 ##### 2.5 Allow pitfalls:
-This pitfall does not mean wrong answer and retrying. It is designed to clear misconceptions or incorrect knowledge.Pitfalls are used to check the attention of program by the student.<br>
-<pre>
-#include<stdio.h>
-int main(){
-	float ft = 7.5;
-	while(ft)
-	{
-		printf("Loop");
-		ft = ft - .5;
-		if(ft == 5.0f)
-			break;
-	}
-	return 0;
-}
-</pre>
-A. Prints Nothing <br>
-
-B. Looop<br>
-
-<b>C. Loop Loop Loop Loop Loop.</b><br>
-
-D. Compilation Error<br><br>
-
+This pitfall does not mean wrong answer and retrying. It is designed to clear misconceptions or incorrect knowledge.Pitfalls are used to check the attention of program by the student.If the student kept input blank or entered input greater than interger range, it will display message invalid input and try again.
 
 ##### 2.6 Conclusion:
-Time taken by the student to attempt the questions: ----
-The student correctly answered: -----/4
-At the completion of this experiment, following are the interpretations/ conclusions,
-A.  B.  C.
-There are 4 programming questions with different difficulty levels. Assessment/evaluation of the multiple choice questions will be given immediately to the student. When the student clicks on the answer of his choice, the correct answer will be displayed below the question. This would enable the student to understand whether he is right or wrong. The approximate time required to understand the procedure to perform the experiment would take about 5 min. To generate data will take another 10 minutes. Calculating and entering the values in the observation table will take approximately 10 minutes. Answering the assessment questions will take about 5 min. Thus the total time required to perform the experiment will require around 10 minutes.
+The simulation will make student  to understand and predict the behavior of while loops.Student will be able to write valid while loops.They will be able to describe and understand the condition part of while loops.They will get to know the standard flowchart representation for while loops.They will understand standard pseudocode representation for while loops and they will get to Know how to indent while loops to make them readable.
 
 ##### 2.7 Equations/formulas: NA
 
