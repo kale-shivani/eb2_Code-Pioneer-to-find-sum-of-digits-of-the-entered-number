@@ -5,9 +5,9 @@ i=1
 while i <= 4:
     print('repeat loop:' , i)
     i = i+1<br>
-<b>A. Loop Loop Loop Loop Loop
+A. Loop Loop Loop Loop Loop
 
-B. Infinite Loop
+<b>B. Infinite Loop</b>
 
 C. Loop Loop Loop
 
