@@ -36,8 +36,13 @@ c) do while<br>
 
 
 ### Post Test
-Q 1. How many times while loop excutes? i=1 while i <= 4: print('repeat loop:' , i) i = i+1
+Q 1. How many times while loop excutes? <br>
+i=1 <br>
+while i <= 4: <br>
+print('repeat loop:' , i)<br>
+i = i+1<br>
 A. Loop Loop Loop Loop Loop
+
 B. Infinite Loop
 
 C. Loop Loop Loop
@@ -54,8 +59,8 @@ while(a <= 27)
 
 return 0;
 }
-a. 25 25 25
-b. 25 26 27
-c. 27 27 27
-d. No change in pattern is visible
+a. 25 25 25<br>
+<b>b. 25 26 27<br></b>
+c. 27 27 27<br>
+d. No change in pattern is visible<br>
 ### References
