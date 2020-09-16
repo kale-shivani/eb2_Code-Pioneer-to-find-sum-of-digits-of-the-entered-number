@@ -35,14 +35,14 @@ b) while<br>
 <b>c) do while<br> </b>
 d) None of the above <br>
 
-5) In the given statement, what does the “sample” indicate? 
+5) In the given statement, what does the “sample” indicate?<br> 
         int *sample[50];<br>
 a) array of characters<br>
 <b>b) array of int pointers<br></b>
 c) function<br>
 d) None of the above<br>
 
-6) Which of the following is a conditional operator?
+6) Which of the following is a conditional operator?<br>
 <b>a) ? : <br></b>
 b) &&<br>
 b) *<br>
