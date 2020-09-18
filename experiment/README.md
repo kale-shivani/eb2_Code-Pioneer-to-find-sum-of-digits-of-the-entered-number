@@ -41,7 +41,7 @@ b) An operating system<br>
 <b>c) A compiler</b><br>
 d) None of the above<br>
 
-6) Who invented C language
+6) Who invented C language<br>
 <b>a) Dennis Ritchie <br></b>
 b) James armstrong<br>
 b) bjarne stroustroup<br>
