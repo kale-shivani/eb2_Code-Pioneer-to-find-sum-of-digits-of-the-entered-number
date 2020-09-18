@@ -35,48 +35,56 @@ b) while<br>
 <b>c) do while<br> </b>
 d) None of the above <br>
 
-5) In the given statement, what does the “sample” indicate?<br> 
+5) Which of the following is used to convert a C program to machine language?<br>
+a) Integrated devlopment environment<br>
+b) An operating system<br>
+<b>c) A compiler</b><br>
+d) None of the above<br>
+
+6) Who invented C language
+<b>a) Dennis Ritchie <br></b>
+b) James armstrong<br>
+b) bjarne stroustroup<br>
+c) None of the above<br>
+
+### Post Test
+1) which of the following is mod operator?<br>
+a) ^<br>
+b) &<br>
+<b>c) % </b><br>
+d) None of the above
+
+2) which of the following operator gives address of a variable?<br>
+<b>a) & </b><br>
+b) *<br>
+c) !<br>
+d) None of the above<br>
+
+3) which of the following operator is used to dereferance a pointer?<br>
+a) #<br>
+b) !<br>
+<b>c) *</b><br>
+d) None of the above
+
+4) Which of the following line is for including standard i/o header file?<br>
+a) #include <standardio.h><br>
+<b>b) #include <stdio.h></b><br>
+c) #include <stdlib.h><br>
+d) None of the above<br>
+
+5) Which of the following is a conditional operator?<br>
+<b>a) ? : <br></b>
+b) &&<br>
+b) *<br>
+c) ^<br>
+
+6) In the given statement, what does the “sample” indicate?<br> 
      int *sample[50];<br>
 a) array of characters<br>
 <b>b) array of int pointers<br></b>
 c) function<br>
 d) None of the above<br>
 
-6) Which of the following is a conditional operator?<br>
-<b>a) ? : <br></b>
-b) &&<br>
-b) *<br>
-c) ^<br>
-
-### Post Test
-Q 1. How many times while loop excutes? <br>
-i=1 <br>
-while i <= 4: <br>
-print('repeat loop:' , i)<br>
-i = i+1<br>
-A. Loop Loop Loop Loop Loop
-
-<b>B. Infinite Loop</b>
-
-C. Loop Loop Loop
-
-D. Prints Nothing
-
-
-Q 2.int main() <br>
-{ <br>
-int a=25;<br>
-while(a <= 27)<br>
-{<br>
-    printf("%d ", a);<br>
-    a++;<br>
-}<br>
-return 0;<br>
-}<br>
-a. 25 25 25<br>
-<b>b. 25 26 27<br></b>
-c. 27 27 27<br>
-d. No change in pattern is visible<br>
 ### References
 Textbooks:
 
