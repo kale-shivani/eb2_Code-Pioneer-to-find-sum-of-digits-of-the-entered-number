@@ -18,8 +18,8 @@
 <hr>
 
 <a name="LO"></a></b>
-#### 1. Focus Area : Reinforce theroretical concept
-Reinforce theroretical concept mean re-registering concept learnt previously.The students have learnt the loops in the theory.So the simulator is showing how while loop is getting excuted when condition is true and what will happen when condition is false.So they are verifying the working of while loop.
+#### 1. Focus Area : Reinforce theoretical concept
+Reinforce theoretical concept means, re-registering concept learnt previously.The students have learnt the loops in the theory. So the simulator is showing how while loop is getting excuted when condition is true and what will happen when condition is false. So they are verifying the working of while loop.
 #### 2. Learning Objectives and Cognitive Level
 
 
