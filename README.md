@@ -3,7 +3,7 @@
 <b>Discipline | <b>Computer Science and Engineering
 :--|:--|
 <b> Lab | <b> Programming for problem Solving Lab
-<b> Experiment|     <b> 1.Write A Program to find sum of digit of a number.
+<b> Experiment|     <b> 1.Write A Program to find sum of digits of a number.
  
 <h5> About the Lab : </h5>
         In this lab students will understand syntax and structure of C-programming. The Lab will introduce students  the basic knowledge of programming fundamentals of C language. In it student will be familiar with problem solving techniques using C language. The lab will focus on imparting writing skill of C programming and problem solving strategy to students.
