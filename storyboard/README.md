@@ -20,6 +20,10 @@ When the student visits the link of the simulator page, he sees canvas of screen
 
 
 #### 2.3 Set the Pathway Activities:
+
+
+
+
 1. Click on the button “START”. It takes to simulation screen.
 2. "START" button will changed to "Next" button,Program Code will appear in Code block and Variable names "Number","Remainder","Sum" with initialzed value to zero in right block will appear.
 4. Click on "next" button for executing step by step instruction , user will get comments with every instruction executed.
