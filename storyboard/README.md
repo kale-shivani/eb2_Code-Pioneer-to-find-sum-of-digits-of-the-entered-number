@@ -20,17 +20,8 @@ When the student visits the link of the simulator page, he sees canvas of screen
 
 
 #### 2.3 Set the Pathway Activities:
-
-
-
-
-1. Click on the button “START”. It takes to simulation screen.
-2. "START" button will changed to "Next" button,Program Code will appear in Code block and Variable names "Number","Remainder","Sum" with initialzed value to zero in right block will appear.
-4. Click on "next" button for executing step by step instruction , user will get comments with every instruction executed.
-5. Input box will appear in front of scanf instruction for input to be given, and "Next" button will convert to "SUBMIT" button.
-6. After submitting input, SUBMIT turns to Next and program will execute step by step showing changes of the values in Variable names "Number","Remainder","Sum"
-5. After excection it will show "Execution Completed" and result in Sum variable.
-
+-The simulator will show step by step execution of program for every line of code, comment is displayed to student explaining use of each line. The changing values of variables are shown with every excuted statement in code to get clear understanding of the c program written using while loop.
+-As the while loop get excuted simulator shows the excution of while loop when condition is true and how it will excute when it will be false. So it will make student understand application of while loop in the program.
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
