@@ -19,7 +19,7 @@
 
 <a name="LO"></a></b>
 #### 1. Focus Area : Reinforce theroretical concept
-Reinforce theroretical concept mean re-registering concept learnt previously.The students have learnt the loops in the theory.So the simultor is showing how while loop is getting excuted when condition is true and what will happen when condition is false.So they are verifying the working of while loop.
+Reinforce theroretical concept mean re-registering concept learnt previously.The students have learnt the loops in the theory.So the simulator is showing how while loop is getting excuted when condition is true and what will happen when condition is false.So they are verifying the working of while loop.
 #### 2. Learning Objectives and Cognitive Level
 
 
@@ -75,6 +75,6 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
 1.| Student will click on START Simulation tab <br> | Simulator opens the experiment screen <br> | To open screen to perform experiment.
-2.| student will press Next Button <br> | Simulator excutes Instructions step by step <br> | Introduction of code and accepting of input
-3.| student will press "Submit" button <br> | Simulator displays values of Reverse number , Remainder and number with every instruction executed<br> | Understanding of while loop execution.
+2.| Student will press Next Button <br> | Simulator excutes Instructions step by step <br> | Introduction of code and accepting of input
+3.| Student will press "Submit" button <br> | Simulator displays values of Reverse number , Remainder and number with every instruction executed<br> | Understanding of while loop execution.
 
