@@ -17,7 +17,7 @@ In the program to calculate sum of digits, we have used while(number>0) loop wit
 7. Divide the number by 10.
 8. Print the sum.
 
-### 3. Flowchart 
+### Flowchart 
 <img src="/experiment/SUMOFDIGITS.jpg"/><br><br>
 
 ### Procedure
