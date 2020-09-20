@@ -1,7 +1,6 @@
 ## Pedagogy (Round 1)
 <p align="center">
 <br>
-<b> Programming for Problem Solving Lab  <a name="top"></a></b><br>
 </p>
 
 <b>Discipline | <b>Computer Science and Engineering
