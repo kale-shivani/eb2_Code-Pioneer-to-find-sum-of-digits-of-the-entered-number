@@ -2,7 +2,7 @@
 
 <b>Discipline | <b>Computer Science and Engineering
 :--|:--|
-<b> Lab | <b> Programming for problem solving Lab
+<b> Lab | <b> Programming for problem solving lab
 <b> Experiment|     <b> 1.Write A Program to find sum of digits of a number.
  
 <h5> About the Lab : </h5>
