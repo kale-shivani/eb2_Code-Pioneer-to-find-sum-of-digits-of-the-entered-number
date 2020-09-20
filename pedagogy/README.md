@@ -41,7 +41,9 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <u> <b>Description: </b></u>
 <br>
+<div align="justify">
 Students will get to know declaration and initialization of variables . They will able to get  logic of program by sequential execution of instruction. How Input value will be put in the formula which inturn runs in loop. Finally program will give the sum of digits of number entered when condition is met.After understanding  the experiment, student shall give answer to the questions asked.
+</div>
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
