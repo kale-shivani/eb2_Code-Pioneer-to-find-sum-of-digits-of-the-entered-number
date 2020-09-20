@@ -6,7 +6,7 @@ To find the sum of digits "While loop" is used.The addition of digits of number 
 
 ### 2. Story:
 
-After simulation starts,student will see code.Student will start execution, while executing it shows message to user about every statement. when scanf statement executes,user will input a number.It is stored in variable "num". To Find sum of digits of the number while loop is executed, in loop to get last digit,modulo division to the number by 10 i.e. lastDigit = num % 10 will be executed and same will be added to the sum i.e. sum = sum + lastDigit will be executed. To get remaining number it will be divided by 10 i.e. num = num / 10. These steps will be repeated till number becomes 0. Finally program will be left with the sum of digits in variable "sum".
+After simulation starts,student will see code. Student will start execution, while executing it shows message to user about every statement. when scanf statement executes,user will input a number.It is stored in variable "num". To Find sum of digits of the number while loop is executed, in loop to get last digit,modulo division to the number by 10 i.e. lastDigit = num % 10 will be executed and same will be added to the sum i.e. sum = sum + lastDigit statement will be executed. To get remaining number it will be divided by 10 i.e. num = num / 10. These steps will be repeated till number becomes 0. Finally program will be left with the sum of digits in variable "sum".
 
 
 
@@ -31,7 +31,7 @@ NA
 This pitfall does not mean wrong answer and retrying. It is designed to clear misconceptions or incorrect knowledge.Pitfalls are used to check the attention of program by the student.If the student kept input blank or entered input greater than 10 digits, it will display message invalid input and try again.
 
 ##### 2.6 Conclusion:
-The simulation will make student  to understand and predict the behavior of while loops.Student will be able to write valid while loops.They will be able to describe and understand the condition part of while loops.They will get to know flow of excution for while loop.
+The simulation will make student  to understand and predict the behavior of while loops.Student will be able to write valid while loops.They will be able to describe and understand the condition part of while loops.They will get to know flow of execution for while loop.
 
 ##### 2.7 Equations/formulas: NA
 
