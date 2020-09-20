@@ -20,8 +20,8 @@ When the student visits the link of the simulator page, he sees canvas of screen
 
 
 #### 2.3 Set the Pathway Activities:
--The simulator will show step by step execution of program for every line of code, comment is displayed to student explaining use of each line. The changing values of variables are shown with every excuted statement in code to get clear understanding of the c program written using while loop.
--As the while loop get excuted simulator shows the excution of while loop when condition is true and how it will excute when it will be false. So it will make student understand application of while loop in the program.
+-The simulator will show step by step execution of program for every line of code by displaying comments explaining use of each line. The changing values of variables are shown with every excuted statement in code to get clear understanding of the c program written using while loop.
+-As the while loop get excuted simulator shows the excution of while loop when condition is true and how it will excute when it will be false. So it will make student understand application of while loop in the program.The changes in values of variables also shown by highlighting the border of boxes in the simulator.
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
@@ -31,13 +31,13 @@ NA
 This pitfall does not mean wrong answer and retrying. It is designed to clear misconceptions or incorrect knowledge.Pitfalls are used to check the attention of program by the student.If the student kept input blank or entered input greater than 10 digits, it will display message invalid input and try again.
 
 ##### 2.6 Conclusion:
-The simulation will make student  to understand and predict the behavior of while loops.Student will be able to write valid while loops.They will be able to describe and understand the condition part of while loops.They will get to know the standard flowchart representation for while loops.They will understand standard pseudocode representation for while loops and they will get to Know how to indent while loops to make them readable.
+The simulation will make student  to understand and predict the behavior of while loops.Student will be able to write valid while loops.They will be able to describe and understand the condition part of while loops.They will get to know flow of excution for while loop.
 
 ##### 2.7 Equations/formulas: NA
 
 
 
-### 3. Flowchart 4
+### 3. Flowchart 
 <img src="flowchart/flowchart-Sum-of-digit.png"/><br><br>
 ### 4. Mindmap:
 <img src="mindmap/sum_of_digit.JPG"/>   
