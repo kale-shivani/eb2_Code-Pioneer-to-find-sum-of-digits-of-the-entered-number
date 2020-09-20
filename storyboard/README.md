@@ -2,7 +2,7 @@
 
 Experiment 1: Write a program to calculate the sum of digits of a number
 ### 1. Story Outline:
-To find the sum of digits "While loop" is used.The addition of digits of number is calculated with the help of remainder and division operator using while loop. 
+To find the sum of digits "While loop" is used. The addition of digits of a number is calculated with the help of the remainder and division operator using a while loop. 
 
 ### 2. Story:
 
@@ -12,7 +12,7 @@ After simulation starts,student will see code. Student will start execution, whi
 
 #### 2.1 Set the Visual Stage Description:
 
-When the student visits the link of the simulator page, he sees canvas of screen size (light orange shade) with title in top center "SUM OF DIGIT". On this canvas START button is seen to start program.Once START button is clicked button will turned to "NEXT" button.  The screen is divided into two blocks one for code execution and Output Functioning . when user click on "NEXT" execution will start and when scanf  statement is reached input box will be shown infront of the input statment.After giving input and clicking SUBMIT,It will change to NEXT button again. In Output Functioning box ,values of variables "sum","Remainder" and "Number" will be displayed. Code will appear on code execution block on left side.
+When the student visits the link of the simulator page, he sees a canvas of screen size (light orange shade) with the title in the top center "SUM OF DIGIT". On this canvas, the START button is seen to start the program. Once the START button is clicked button will be turned to the "NEXT" button.  The screen is divided into two blocks one for code execution and Output Functioning. when the user clicks on "NEXT" execution will start and when scanf statement is reached input box will be shown in front of the input statement. After giving input and clicking SUBMIT, it will change to the "NEXT "button again. In the Output Functioning box, values of variables "sum", "Remainder" and "Number" will be displayed. The code will appear on the code execution block on the left side.
 
 #### 2.2 Set User Objectives & Goals:
 1. To understand application of while loop in program.How while loop executes when condition will be true and false.
