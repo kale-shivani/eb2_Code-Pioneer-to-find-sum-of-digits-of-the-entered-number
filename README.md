@@ -9,7 +9,7 @@
         In this lab students will understand syntax and structure of C-programming. The Lab will introduce students  the basic knowledge of programming fundamentals of C language. In it student will be familiar with problem solving techniques using C language. The lab will focus on imparting writing skill of C programming and problem solving strategy to students.
 
 <h5> About the Experiment :  </h5>
-The Program takes an input an integer from the user.It uses while loop.Within the while loop uses modulo, division and addition to find sum of digit of a number.
+The program takes an input an integer from the user.It uses while loop.Within the while loop uses modulo, division and addition to find sum of digits of a number.
 
 <h5> Target Audience : </h5>
 
