@@ -1,8 +1,10 @@
 ### Aim
-To Understand the concept of while Loop in C Programming Language
+To understand the concept of while Loop in C Programming Language.
 
 ### Theory
-While loop is a control flow statement that allows code to be executed repeatedly based on a given Boolean condition. The while construct consists of a block of code and a condition/expression. The condition/expression is evaluated, and if the condition/expression is true, the code within all of their following in the block is executed. This repeats until the condition/expression becomes false. Because the while loop checks the condition/expression before the block is executed, the control structure is often also known as a pre-test loop. It is one of way which gives the learner a deep understanding of While loop and the Arithmetic operators.
+In C different loops are used for controlling flow of program.For adding digits of number in the program while loop is used.THe While loop is generally have condition and block of code.In while loop the condition will be checked  if given boolean condition is true,the block of statements will get executed.This will be repeated until condition becomes false.If the condition becomes false it will exit and execute false part.
+In the program to calculate sum of digits, we have used while(number>0) loop with condition i.e. till number is greater than 0, then the code of block statements contains finding of remainder and addition of digits to "sum" variable.This block of statements will be excuted repeatedly till condition given in the while loop is true. 
+
 
 <b>Pseudocode</b>
 1. Declare three variables to store number, remainder, and sum and set all variables to 0.
@@ -18,7 +20,7 @@ While loop is a control flow statement that allows code to be executed repeatedl
 1. Click on the button “START”. It takes to simulation screen. 
 2. "START" button will changed to "Next" button,Program Code will appear in Code block and Variable names "Number","Remainder","Sum" with initialzed value to zero in right block will appear.
 3. Click on "next" button for executing step by step instruction , user will get comments with every instruction executed. Input box will appear infront of scanf statement when instruction for input is executed , and "Next" button will convert to "SUBMIT" button. 
-4. After submitting input, SUBMIT turns to Next and program will execute step by step showing changes of the values in Variable names "Number","Remainder","Sum" After excection it will show "Execution Completed" and result in Sum variable.
+4. After submitting input, SUBMIT turns to Next and program will execute step by step showing changes of the values in Variable names "Number","Remainder","Sum".Changes in variable values is shown by highlighting the borders of variable box.After excection it will show "Execution Completed" and result in Sum variable.
 
 ### Pre Test
 1) Which of the following is not considered as a logical operator?<br>
