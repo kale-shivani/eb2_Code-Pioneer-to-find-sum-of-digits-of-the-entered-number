@@ -21,10 +21,8 @@ The screen is divided into two blocks, one for code execution and other for outp
 
 
 #### 2.3 Set the Pathway Activities:
-<div align="justify">
 - The simulator will show step by step execution of program for every line of code by displaying comments explaining use of each line. The changing values of variables are shown with every excuted statement in code to get clear understanding of the c program written using while loop.
 - As the while loop get excuted simulator shows the excution of while loop when condition is true and how it will excute when it will be false. So it will make student understand application of while loop in the program.The changes in values of variables also shown by highlighting the border of boxes in the simulator.
-</div>
 
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
