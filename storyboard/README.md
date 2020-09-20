@@ -11,7 +11,7 @@ After simulation starts,student will see code. Student will start execution, whi
 
 #### 2.1 Set the Visual Stage Description:
 <div align="justify">
-The screen is divided into two blocks one for code execution and other for output Functioning. At the top of the page, there are two buttons named "START" / "NEXT" and "RESET". An input box will appear on the line, where the input statement is written in the code block. The changes are displayed in the execution section.
+The screen is divided into two blocks, one for code execution and other for output Functioning. At the top of the page, there are two buttons named "START" / "NEXT" and "RESET". An input box will appear on the line, where the input statement is written in the code block. The changes are displayed in the execution section.
 </div>
 
 
