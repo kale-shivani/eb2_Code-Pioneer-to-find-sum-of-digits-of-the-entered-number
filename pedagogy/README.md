@@ -72,7 +72,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 <br>
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
-:--|:--|:--|:--:
+:--|:--|:--|:--
 1.| Student sees the program. <br> | Simulator will display the code <br> | To understand the code.
 2.| Student sees the step by step execution of the program. <br> | Simulator executes the instructions step by step till the end of the program<br> | To show the step by step execution.
 3.| Student inputs a number within the program execution <br> | Simulator takes in the input number.<br> | Reading the input value from the user.
