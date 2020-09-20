@@ -3,8 +3,8 @@ To understand the concept of while Loop in C Programming Language by finding sum
 
 ### Theory
 
-In C different loops are used for controlling flow of program.For adding digits of number in the program while loop is used.The while loop is generally have condition and block of statements.In while loop the condition is checked and if given boolean condition is true,the block of statements will get executed.This will be repeated until condition becomes false.If the condition becomes false it will exit and execute false part.
-In the program to calculate sum of digits, we have used while(number>0) loop with condition i.e. till number is greater than 0, then the code of block statements contains finding of remainder and addition of digits to "sum" variable.This block of statements will be excuted repeatedly till condition given in the while loop is true. 
+In C different loops are used for controlling flow of program. For adding digits of number in the program while loop is used.The while loop is generally have condition and block of statements. In while loop the condition is checked and if given boolean condition is true,the block of statements will get executed. This will be repeated until condition becomes false. If the condition becomes false it will exit the loop and further execution of program is done.
+In the program to calculate sum of digits, we have used while(number>0) loop with condition i.e. till number is greater than 0, then the code of block statements contains finding of remainder and addition of digits to "sum" variable. This block of statements will be excuted repeatedly till condition given in the while loop is true. 
 
 
 <b>Pseudocode</b>
