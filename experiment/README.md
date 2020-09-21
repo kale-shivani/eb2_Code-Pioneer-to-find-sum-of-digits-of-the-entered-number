@@ -18,7 +18,7 @@ In the program to calculate sum of digits, we have used while(number>0) loop wit
 8. Print the sum.
 
 ### Flowchart 
-<img src="/experiment/images/sum_flowchart2.JPG"/><br><br>
+<img src="/experiment/images/sum_of_digit2.JPG"/><br><br>
 
 ### Procedure
 
