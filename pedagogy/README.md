@@ -81,5 +81,5 @@ Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 1.| Student sees the program. <br> | Simulator will display the code <br> | To understand the code.
 2.| Student sees the step by step execution of the program. <br> | Simulator executes the instructions step by step till the end of the program<br> | To show the step by step execution.
 3.| Student inputs a number within the program execution <br> | Simulator takes in the input number.<br> | Reading the input value from the user.
-4.| Student sees the execution flow of the loop to find the reverse of a number| Simulator execute the loop. | To notify the student regarding the result of the program and to reset the simulator.
+4.| Student sees the execution flow of the loop to find the sum of digits of a number| Simulator execute the loop. | To notify the student regarding the result of the program and to reset the simulator.
 
