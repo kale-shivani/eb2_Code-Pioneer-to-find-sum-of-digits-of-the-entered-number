@@ -42,7 +42,7 @@ The simulation will make student  to understand and predict the behavior of whil
 ### 3. Flowchart 
 <img src="flowchart/flowchart-Sum-of-digit.png"/><br><br>
 ### 4. Mindmap:
-<img src="mindmap/sum_of_digit.JPG"/>   
+<img src="mindmap/sum_of_digits_of_number.JPG"/>   
 
 ### 5. Storyboard :
 Storyboard : <a href="storyboard/storyboard_sum_of_digits.gif"> HERE </a>
